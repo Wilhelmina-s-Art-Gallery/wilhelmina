@@ -24,4 +24,4 @@ Poppy combines traditional sculpting techniques with a painterly application of 
 
 Portrait commissions are fun and intimate experiences that one carries for life. It is rare to be able to deposit an experience in quite such a poetic manner. As a subject of the artist you develop a relationship with a person studying you intensely – trying to capture the essence of who you are forever. In the case of bronze one can add to that the weight of history behind this ancient material, its robustness and longevity.
 
-If you are interested in commissioning a portrait from Poppy, please contact Wilhelmina at wvonbl@wilhelmina.gallery for further information.
+If you are interested in commissioning a portrait from Poppy, please contact us using the contact form below for further information.

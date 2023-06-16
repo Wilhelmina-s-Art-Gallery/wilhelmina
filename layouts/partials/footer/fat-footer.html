@@ -5,53 +5,32 @@
     </div>
     <div class="column is-size-6">
       <aside class="contact" id="contact">
-          <div class="contact-box">
-              <div class="content-box">
-                  <div class="contact-form">
-                    <form method="POST" action="https://herotofu.com/start" class="box p-5">
-                      <label class="is-block mb-4">
-                        <span class="is-block mb-2">Your name</span>
-                        <input
-                          name="name"
-                          type="text"
-                          class="input"
-                          placeholder="Joe Bloggs"
-                        />
-                      </label>
+        <form method="POST" action="https://herotofu.com/start" class="box p-5">
+          <label class="is-block mb-4">
+            <span class="is-block mb-2">Your name</span>
+            <input name="name" type="text" class="input" placeholder="Joe Bloggs" />
+          </label>
 
-                      <label class="is-block mb-4">
-                        <span class="is-block mb-2">Email address</span>
-                        <input
-                          required
-                          name="email"
-                          type="email"
-                          class="input"
-                          placeholder="joe.bloggs@example.com"
-                        />
-                      </label>
+          <label class="is-block mb-4">
+            <span class="is-block mb-2">Email address</span>
+            <input required name="email" type="email" class="input" placeholder="joe.bloggs@example.com" />
+          </label>
 
-                      <label class="is-block mb-4">
-                        <span class="is-block mb-2">Message</span>
-                        <textarea
-                          name="message"
-                          class="textarea"
-                          rows="3"
-                          placeholder="Tell us what you're thinking about..."
-                        ></textarea>
-                      </label>
+          <label class="is-block mb-4">
+            <span class="is-block mb-2">Message</span>
+            <textarea name="message" class="textarea" rows="3" placeholder="Tell us what you're thinking about..."></textarea>
+          </label>
 
-                      <div class="mb-4">
-                        <button type="submit" class="button is-link px-4">Contact Us</button>
-                      </div>
-                    </form>
-                  </div>
-              </div>
+          <div class="mb-4">
+            <button type="submit" class="button is-link px-4">Contact Us</button>
           </div>
+        </form>
+
       </aside>
       <ul class="is-size-5 svg-list">
         <li class="location">{{ site.Params.street_address | markdownify }}</li>
         <li class="instagram"><a href="https://instagram.com/wilhelminas-art_gallery/" title="WAG's Instagram account">Instagram</a></li>
-        <li class="facebook" ><a href="https://www.facebook.com/profile.php?id=100092925767688" title="Donald's Facebook account">Facebook</a></li>
+        <li class="facebook"><a href="https://www.facebook.com/profile.php?id=100092925767688" title="Donald's Facebook account">Facebook</a></li>
       </ul>
     </div>
   </div>
