@@ -220,3 +220,7 @@ blockquote:after {
 article.post figure img.title {
   margin-bottom: 1rem;
 }
+
+.content figure figcaption {
+  font-style: unset;
+}
