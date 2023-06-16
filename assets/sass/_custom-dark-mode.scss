@@ -1,0 +1,58 @@
+body {
+  background-color: $white;
+  height: 100vh;
+  transition: all 0.4s ease;
+}
+
+// Some styling
+
+body .subtitle,
+body .title {
+  color: $dark;
+}
+
+body.dark {
+  background-color: $dark;
+  color: $light;
+}
+
+.has-background-dark a {
+  color: $pipi;
+}
+
+body.dark .subtitle,
+body.dark .title {
+  color: $light;
+}
+
+.section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  color: $light;
+  padding: 0.8rem;
+  background: $dark;
+  border-radius: 6px;
+}
+
+body.dark button {
+  background: $light;
+  color: $dark;
+}
+
+.filter-white {
+  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(307deg)
+    brightness(101%) contrast(103%);
+}
+
+.filter-white:hover {
+  filter: invert(73%) sepia(10%) saturate(616%) hue-rotate(314deg)
+    brightness(107%) contrast(96%); // target color: EABEBE $link-hover-on-dark
+}

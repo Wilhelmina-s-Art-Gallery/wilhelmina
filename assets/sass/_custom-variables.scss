@@ -1,0 +1,32 @@
+// Wilhelmina
+// Created with ColorSlurp
+
+$lemon: hsl(55, 97%, 52%);
+$pipi: hsl(55, 97%, 90%);
+$eucalyptus: hsl(137, 57%, 37%);
+$san-marino: hsl(212, 40%, 49%);
+$waterloo: hsl(235, 12%, 54%);
+$stiletto: hsl(360, 50%, 41%);
+$scorpion: hsl(0, 0%, 34%);
+$emperor: hsl(360, 0%, 33%);
+
+$primary: $san-marino;
+$link: hsl(137, 57%, 25%);
+
+// Update Bulma's global variables
+$family-sans-serif: "Quicksand", -apple-system, BlinkMacSystemFont,
+  "Avenir Next", "Avenir", "Segoe Ui", "Helvetica Neue", "Helvetica",
+  "Cantarell", "Ubuntu", "Roboto", "Noto", "Arial", Sans-Serif;
+$family-monospace: "Menlo", "Consolas", "Monaco", "Liberation Mono",
+  "Lucida Console", monospace;
+$family-code: "Menlo", "Consolas", "Monaco", "Liberation Mono", "Lucida Console",
+  monospace;
+
+$family-primary: $family-sans-serif;
+$family-secondary: $family-sans-serif;
+
+/// Responsive Padding, Margin & Gutters
+//  Source: https://matthewjamestaylor.com/responsive-padding
+$padding: calc(8px + 1.5625vw);
+
+$container: 70ch;

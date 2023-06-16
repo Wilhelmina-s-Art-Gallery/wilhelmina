@@ -1,3 +1,50 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = '/'
+languageCode = 'en-gb'
+timeZone = 'Europe/Athens'
+title = "Wilhelmina's Art Gallery"
+rssTitle = "Wilhelmina's Art Gallery"
+# Sets RSS feed title (for RSS readers)
+
+seoTitle = "Wilhelmina's Art Gallery"
+# Sets homepage <title> (for SEO)
+
+disableKinds = ["robotsTXT"]
+disableHugoGeneratorInject = 'true'
+# relativeURLs = 'true'
+contentDir = 'content'
+enableInlineShortcodes = true
+enableGitInfo = true
+enableRobotsTXT = true
+paginate = 50
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = ['lastmod', ':git', ':fileModTime', ':default']
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
+
+[params]
+  color = '##fce70d'
+  # Sets theme colour& Safari mask icon colour
+  cloudflare_images = 'https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/'
+  assets_url = 'https://assets.donaldjenkins.com/'
+  video_url = 'https://customer-j00pa75eocpcmpyc.cloudflarestream.com/'
+  video_suffix = '/manifest/video.m3u8'
+  thumbnail_suffix = '/thumbnails/thumbnail.jpg?time='
+  assets_thumbnails = 'https://assets.donaldjenkins.com/images/thumbnails/'
+
+  description = 'Wilhelmina’s Art Gallery exhibits contemporary works by International artists on Hydra between June and October. The exhibitions are displayed inside a historic building on Mandraki Beach that was once the Captain’s Mansion. This year the artists displayed are vastly different but share in common supreme technical skill and treat subjects rooted in universal themes, particularly nature, myth, philosophy and dreams.'
+  seo_description = 'Wilhelmina’s Art Gallery exhibits contemporary works by International artists on Hydra between June and October. The exhibitions are displayed inside a historic building on Mandraki Beach that was once the Captain’s Mansion. This year the artists displayed are vastly different but share in common supreme technical skill and treat subjects rooted in universal themes, particularly nature, myth, philosophy and dreams.'
+  footer_text = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget nunc et velit suscipit porta sed nec libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie sodales risus ac ullamcorper. Proin rhoncus risus ut sem lacinia dignissim placerat eros consectetur.'
+  street_address = 'Mandraki Bay, Hydra, Greece, 18040'
+
+  [sitemap]
+    changefreq = 'always'
+    filename = 'sitemap.xml'
+    priority = 0.5
+
+  [build]
+    writeStats = true
+
+  [markup.goldmark.renderer]
+    unsafe = true # Allow HTML in md files

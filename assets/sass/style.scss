@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+// Set local fonts
+@import "custom-fonts";
+
+// Set custom variables
+@import "custom-variables";
+
+@import "../node_modules/bulma/bulma.sass";
+@import "custom-dark-mode";
+@import "custom-contact";
+@import "custom-styles";

@@ -1,0 +1,26 @@
+{
+  "name": "wilhelmina",
+  "version": "1.0.0",
+  "description": "Wilhelmina's Art Gallery Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilhelmina-s-Art-Gallery/wilhelmina.git"
+  },
+  "keywords": [
+    "hugo"
+  ],
+  "author": "Donald Jenkins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wilhelmina-s-Art-Gallery/wilhelmina/issues"
+  },
+  "homepage": "https://github.com/Wilhelmina-s-Art-Gallery/wilhelmina#readme",
+  "devDependencies": {
+    "bulma": "^0.9.4",
+    "node-sass": "^9.0.0"
+  }
+}

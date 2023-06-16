@@ -1,0 +1,15 @@
+{{ $id := .Get "id" }}
+{{ $alt := .Get "alt" }}
+{{ $title := .Get "title" }}
+{{ $size := .Get "size" }}
+{{ $medium := .Get "medium" }}
+{{ $date := .Get "date" }}
+{{ $image_url := printf "%s%s" site.Params.cloudflare_images $id }}
+
+<figure>
+  <img class="title" src="{{ $image_url }}/fit=contain" alt="{{ if .Get
+  "title"}}{{ $title | truncate 42 }}{{ end }}" />
+  <figcaption class="subtitle has-text-centered is-size-7-mobile is-size-6-tablet">
+    <em>{{ $title }}</em>, {{ $size }}, {{ $medium }}, {{ $date }}
+  </figcaption>
+</figure>

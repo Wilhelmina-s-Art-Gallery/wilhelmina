@@ -1,0 +1,54 @@
+<aside id="legal">
+  <p>
+    <a
+      id="footer-logo"
+      class="filter-white"
+      href="{{ .Site.BaseURL }}"
+      title="Go to Home page"
+      ><img src="/images/logo.svg" alt="Donald Jenkins" width="100" height="27"
+    /></a>
+  </p>
+  <p>
+    <strong>
+      {{ if or (eq .Section "policies") (eq .Params.slug "contact") }} {{
+      partial "icons/unlicense.html" . }}&thinsp;This page's content is
+      <a href="https://github.com/donaldjenkins/documentation/blob/main/LICENSE"
+        >unlicensed</a
+      >
+      {{ else }} Copyright &#169; Donald Jenkins {{ partial
+      "footer/copyright-year.html" . }} {{ end }}
+    </strong>
+  </p>
+  {{ if (eq .Section "articles") }}
+  <p>
+    <strong>
+      {{ partial "icons/cc.html" . }}&thinsp;Share this content via a
+      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        >CC BY-NC-SA 4.0</a
+      >
+      license
+    </strong>
+  </p>
+  {{ end }}
+  <nav id="footer-menu">
+    <span class="tag"
+      ><a
+        href="/policies"
+        title="Read the Terms and Privacy policy for this site"
+        >{{ partial "icons/policy.html" . }}&thinsp;Legal stuff</a
+      ></span
+    >
+    <span class="tag"
+      ><a href="/contact" title="Send a message"
+        >{{ partial "icons/contact.html" . }}&thinsp;Contact</a
+      ></span
+    >
+    <span class="tag"
+      ><a
+        href="/humans.txt"
+        title="Find out about the humans who made this site"
+        >{{ partial "icons/humans.html" . }}&thinsp;humans.txt</a
+      ></span
+    >
+  </nav>
+</aside>

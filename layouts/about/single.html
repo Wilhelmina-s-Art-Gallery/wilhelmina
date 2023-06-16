@@ -1,0 +1,25 @@
+{{ define "main" }}
+<figure>
+  <img width="100%" srcset="
+      https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/2b803f1e-bb4e-44be-301b-7e977b864800/w=320   320w,
+      https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/2b803f1e-bb4e-44be-301b-7e977b864800/w=640   640w,
+      https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/2b803f1e-bb4e-44be-301b-7e977b864800/w=960   960w,
+      https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/2b803f1e-bb4e-44be-301b-7e977b864800/w=1280 1280w,
+      https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/2b803f1e-bb4e-44be-301b-7e977b864800/w=1920 1920w
+
+    " src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/2b803f1e-bb4e-44be-301b-7e977b864800/w=1280" alt="Thz Mandraki Hotel" />
+  <figcaption class="caption subtitle is-size-7 has-text-grey-light is-pulled-right pr-1 is-hidden-mobile">The Mandraki Hotel.</figcaption>
+</figure>
+<section class="container is-fluid">
+  <div class="tabs">
+    <ul>
+      <li class="is-active"><a>The Gallery</a></li>
+      <li><a href="/wilhelmina">Wilhelmina von Blumenthal</a></li>
+    </ul>
+  </div>
+  <article>
+    <div class="has-text-weight-semibold">{{ .Params.Description }}</div>
+    {{ .Content }}
+  </article>
+</section>
+{{ end }}

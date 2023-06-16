@@ -1,0 +1,51 @@
+{{ define "main" }}
+<figure>
+  <img width="100%" srcset="
+     https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/a7132210-e087-40bb-6fe8-7a11986c4e00/w=320   320w,
+     https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/a7132210-e087-40bb-6fe8-7a11986c4e00/w=640   640w,
+     https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/a7132210-e087-40bb-6fe8-7a11986c4e00/w=960   960w,
+     https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/a7132210-e087-40bb-6fe8-7a11986c4e00/w=1280 1280w,
+     https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/a7132210-e087-40bb-6fe8-7a11986c4e00/w=1920 1920w
+
+    " src="https://www.silverejarrosson.com/cdn-cgi/imagedelivery/pUQ8MV0SyIpam560ZqHrQA/a7132210-e087-40bb-6fe8-7a11986c4e00/w=1280" alt="Wilhelmina von Blumenthal at Hydra, 2023" />
+  <figcaption class="caption subtitle is-size-7 has-text-grey-light is-pulled-right pr-1 is-hidden-mobile">Wilhelmina von Blumenthal at Hydra, 2023.</figcaption>
+</figure>
+<section class="container is-fluid">
+  <div class="tabs">
+    <ul>
+      <li><a href="/about">The Gallery</a></li>
+      <li class="is-active"><a>Wilhelmina von Blumenthal</a></li>
+    </ul>
+  </div>
+  <article>
+    <div class="columns">
+      <div class="column is-5">
+        <div class="has-text-weight-semibold">{{ .Params.Description }}</div>
+        {{ .Content }}
+      </div>
+      <div class="column is-7">
+        <article class="list">
+          <h2 class="is-size-5-mobile is-size-4-tablet">Artists exhibited and worked with in the past</h2>
+          <div class="columns is-multiline">
+            <div class="column">
+              {{ with .Param "artists_exhibited" }}
+              {{ range $index, $i := first 40 (. | sort) }}
+              <div class="list-item">
+                <div class="list-item-content">
+                  <div class="list-item-description">{{ $i | markdownify }}</div>
+                </div>
+              </div>
+              {{ if modBool (add $index 1) 10 }}
+            </div>
+            <div class="column">
+              {{ end }}
+              {{- end -}}
+              {{ end }}
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </article>
+</section>
+{{ end }}
