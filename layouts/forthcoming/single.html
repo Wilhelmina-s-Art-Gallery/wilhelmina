@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="container is-fluid">
+  <div class="tabs">
+    <ul>
+      <li><a href="/exhibitions">Current</a></li>
+      <li class="is-active"><a>Forthcoming</a></li>
+    </ul>
+  </div>
+  <article>
+    <div class="has-text-weight-semibold">{{ .Params.Description }}</div>
+    {{ .Content }}
+  </article>
+</section>
+{{ end }}

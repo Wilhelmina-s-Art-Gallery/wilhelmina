@@ -23,4 +23,4 @@ Across her practice, Bonafini’s curiosity lies in cross-fertilising painting, 
 
 {{% artist-img id="3810af03-aa5c-4fc7-9513-5aa889fe9b00" title="Silent Strengths" size="200x140cm" medium="Hand-dyed and tufted bamboo silk" date="2022" %}}
 
-{{% artist-img id="a79a63f1-6069-4b24-05f3-ddb6940fa600" title="Cosmic Fruit" size="80x80x3cm" medium="Gouache and watercolour on cork" date="2022" %}}
+{{% artist-img id="a6992d5b-bd1c-4a4a-683c-e9036db08200" title="Whispsilk" size="80x80x3cm" medium="Gouache and watercolour on engraved cork" date="2022" %}}
