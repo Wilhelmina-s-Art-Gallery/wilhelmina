@@ -48,3 +48,7 @@ paginate = 50
 
   [markup.goldmark.renderer]
     unsafe = true # Allow HTML in md files
+
+  [markup.goldmark.parser.attribute]
+    block = true # default is false
+    # Source: https://discourse.gohugo.io/t/markdown-attributes/41783

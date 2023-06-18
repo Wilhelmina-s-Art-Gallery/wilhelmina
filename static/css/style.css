@@ -10688,3 +10688,8 @@ article.post figure img.title {
 .content figure figcaption {
   font-style: unset;
 }
+
+.has-bg-img {
+  background: url("https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/5ca0a36f-e4ee-4da4-b7eb-ca11ff394b00/fit=contain,gamma=0.36,quality=45") center center;
+  background-size: cover;
+}

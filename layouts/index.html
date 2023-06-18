@@ -1,5 +1,13 @@
 {{ define "main" }}
-<article class="container is-fluid">
-  {{ .Content }}
-</article>
+  <section class="hero is-large has-bg-img">
+    <div class="hero-body">
+      <p class="title has-text-white">
+        {{ .Params.hero_title | markdownify }}<br>
+        {{ .Params.hero_subtitle | markdownify }}<br></p>
+      <p class="subtitle has-text-white has-text-weight-bold">
+        {{ .Params.description | markdownify }}</span>
+      </p>
+
+    </div>
+  </section>
 {{ end }}
