@@ -10689,7 +10689,21 @@ article.post figure img.title {
   font-style: unset;
 }
 
+#logo {
+  text-align: left;
+}
+
 .has-bg-img {
-  background: url("https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/5ca0a36f-e4ee-4da4-b7eb-ca11ff394b00/fit=contain,gamma=0.36,quality=45") center center;
+  background: url("https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/09e021e7-09a7-4ab2-34f0-7cbfbafd3e00/fit=contain,gamma=0.55,quality=45") center center;
   background-size: cover;
+}
+
+.hero a {
+  color: hsl(0, 0%, 100%);
+  text-decoration: underline;
+}
+
+.image.is-4by3 {
+  margin-left: 0;
+  margin-right: 0;
 }
