@@ -5,6 +5,11 @@ description: ""
 date: 2014-07-01T14:00:00-06:00
 ---
 
+## (Under) Black Earth
+
+**Bea Bonafini**
+_19th June – 20th July 2023_
+
 Above the blue and black earth, we carry our emptiness where we can. Yours takes you to the other side, into the womb-like night of the world, where mystery erupts. You guide us through a dance of ancient seductions to find new magic. You whisper to the nymphs, composing enigmas with pastel scales. You plunge us back into tectonic time to caress the bark of the alma mater, to reconnect with the very first creatures and retrace evolutionary paths. Glancing at us from a distance, you quote Rilke: {{% quote %}}We are right at the start, do you see. As though before everything. With a thousand and one dreams behind us and no act.{{% /quote %}}
 
 Man has eaten the Earth, and you, in the shadow of volcanoes, laugh with the daughters of fire. Their huge lips open like two valves of a shell. Their hair spreads like alluvium, cascading over the cracked skin of the world, to the rhythm of their breasts rising and falling. How long since they laughed like that?
