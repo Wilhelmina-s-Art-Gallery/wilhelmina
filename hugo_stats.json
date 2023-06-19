@@ -29,6 +29,7 @@
       "main",
       "meta",
       "nav",
+      "ol",
       "p",
       "picture",
       "q",
@@ -42,6 +43,7 @@
       "ul"
     ],
     "classes": [
+      "alert",
       "box",
       "button",
       "buttons",
@@ -68,6 +70,7 @@
       "hero",
       "hero-body",
       "image",
+      "info",
       "input",
       "instagram",
       "is-4",
@@ -77,6 +80,7 @@
       "is-7",
       "is-active",
       "is-block",
+      "is-dark",
       "is-fluid",
       "is-hidden-mobile",
       "is-hoverable",
@@ -119,8 +123,10 @@
       "pr-1",
       "px-4",
       "subtitle",
+      "success",
       "svg-list",
       "tabs",
+      "tag",
       "textarea",
       "title"
     ],
@@ -128,14 +134,19 @@
       "contact",
       "footer",
       "footer-logo",
+      "footer-menu",
+      "information-we-collect-summarized",
+      "legal",
       "logo",
       "navbar",
       "navbarBasicExample",
+      "our-undertaking-to-you",
       "poppy-field",
       "portrait-commissions",
       "thanks",
       "under-black-earth",
-      "version-française"
+      "version-française",
+      "who-we-are"
     ]
   }
 }
