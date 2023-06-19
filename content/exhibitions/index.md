@@ -5,8 +5,6 @@ description: ""
 date: 2014-07-01T14:00:00-06:00
 ---
 
-{{% img src="32277ec9-89d8-4f16-ecc5-56763c31a500" %}}
-
 Above the blue and black earth, we carry our emptiness where we can. Yours takes you to the other side, into the womb-like night of the world, where mystery erupts. You guide us through a dance of ancient seductions to find new magic. You whisper to the nymphs, composing enigmas with pastel scales. You plunge us back into tectonic time to caress the bark of the alma mater, to reconnect with the very first creatures and retrace evolutionary paths. Glancing at us from a distance, you quote Rilke: {{% quote %}}We are right at the start, do you see. As though before everything. With a thousand and one dreams behind us and no act.{{% /quote %}}
 
 Man has eaten the Earth, and you, in the shadow of volcanoes, laugh with the daughters of fire. Their huge lips open like two valves of a shell. Their hair spreads like alluvium, cascading over the cracked skin of the world, to the rhythm of their breasts rising and falling. How long since they laughed like that?
@@ -20,6 +18,8 @@ A force washes over you - thighs spread, a fire in your belly rises up to your b
 Tell me, do you feel the strength of this earth, under the eucalyptuses? In this land, nothing is hollow - everything is inhabited, we know how to be satisfied with the cosmos. Yet you insist on revealing the gaps, the silences, you leave room for absence (what more could you offer than your flaws?). This fury rumbles ecstatically within you. After being silenced for so long, Monique Wittig wrote that {{% quote %}}whether we like it or not, we have to constitute ourselves, to emerge as if from nowhere, be our own legends in our own lives, to make ourselves beings of flesh as abstract as characters in a book or painted images{{% /quote %}}. She concluded that {{% quote %}}at a time when heroes have gone out of fashion, we had to become "heroic in reality, epic in books.{{% /quote %}}
 
 You too, feel a spirit of conquest. You say: we reclaim our throne in the hierarchy of symbols. The sun is going to rise, inevitably, over the black earth.
+
+—Ysé Sorel (exhibition curator)
 
 ## Version française
 
@@ -38,3 +38,5 @@ Dis-moi, sens-tu la force de cette terre, sous les eucalyptus&nbsp;? Dans ce pay
 Toi aussi, tu te sens un esprit de conquête. Tu affirmes : nous réclamons notre trône dans la hiérarchie des symboles. Le soleil va se lever, inéluctable, au-dessus de la terre noire.
 
 Et le feu couve.
+
+—Ysé Sorel (curateur de l'exposition)
