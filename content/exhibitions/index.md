@@ -19,7 +19,7 @@ Tell me, do you feel the strength of this earth, under the eucalyptuses? In this
 
 You too, feel a spirit of conquest. You say: we reclaim our throne in the hierarchy of symbols. The sun is going to rise, inevitably, over the black earth.
 
-—Ysé Sorel (exhibition curator)
+—text by Ysé Sorel
 
 ## Version française
 
@@ -39,4 +39,4 @@ Toi aussi, tu te sens un esprit de conquête. Tu affirmes : nous réclamons not
 
 Et le feu couve.
 
-—Ysé Sorel (curateur de l'exposition)
+—texte de Ysé Sorel
