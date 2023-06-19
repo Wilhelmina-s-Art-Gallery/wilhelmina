@@ -5,6 +5,17 @@
     </div>
     <div class="column is-size-6">
       <aside class="contact" id="contact">
+        <div id="thanks" class="modalDialog">
+          <div>
+            <a href="#close" title="Close" class="close">X</a>
+
+            <h3 class="title">Thank you</h3>
+            <p class="subtitle">
+              Your message was successfully sent. We'll try to get back to you as soon as
+              possible.
+            </p>
+          </div>
+        </div>
         <form method="POST" action="https://gallery-site-form.policymakr.workers.dev" class="box p-5">
           <label class="is-block mb-4">
             <span class="is-block mb-2">Your name</span>
@@ -27,7 +38,6 @@
           </div>
           <input type="hidden" name="Redirect URL" value="{{ .Permalink }}#thanks">
         </form>
-
       </aside>
       <ul class="is-size-5 svg-list">
         <li class="location">{{ site.Params.street_address | markdownify }}</li>

@@ -49,6 +49,7 @@
       "card",
       "card-content",
       "card-image",
+      "close",
       "column",
       "columns",
       "contact",
@@ -101,6 +102,7 @@
       "mb-4",
       "media",
       "media-content",
+      "modalDialog",
       "navbar",
       "navbar-brand",
       "navbar-burger",
@@ -131,6 +133,7 @@
       "navbarBasicExample",
       "poppy-field",
       "portrait-commissions",
+      "thanks",
       "version-française"
     ]
   }
