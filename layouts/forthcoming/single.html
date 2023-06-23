@@ -8,54 +8,11 @@
   </div>
   <h2 class="title">{{ .Params.forthcoming_event_1 | markdownify }}</h2>
   <p class="subtitle is-size-4">{{ .Params.forthcoming_event_date_1 | markdownify }}</p>
-  <div class="columns">
-    <div class="column">
-      <div class="card">
-        <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/f796366d-4e57-4b26-4d5c-635d36300700/fit=cover,quality=60" alt="Barthélémy Toguo, Dance of Flowers">
-          </figure>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/49987e61-ebaa-445f-bf09-cb477650e100/fit=cover,quality=60" alt="Damien Deroubaix, Melancholia Rhinocéros">
-          </figure>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/73756c6f-ab1f-4c8f-7390-c34722755800/fit=cover,quality=60" alt="Robert Bodem, Feline">
-          </figure>
-        </div>
-      </div>
-    </div>
-    <div class="column">
-      <div class="card">
-        <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/e56d44cd-5f53-470f-7f91-2f8e41960700/fit=cover,quality=60" alt="Barthélémy Toguo, Purification XVI">
-          </figure>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/dfdf7f3e-795a-462e-1f4a-08b8eded0900/fit=crop,quality=60" alt="Damien Deroubaix, Life">
-          </figure>
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/6cb75aa2-6710-4dd5-ed63-86f08ac8fe00/fit=cover,quality=60" alt="Robert Bodem, Negative Spaces">
-          </figure>
-        </div>
-      </div>
-    </div>
-  </div>
+  <ul>
+    <li><a href="/artists/damien-deroubaix">Damien Déroubaix</a></li>
+    <li><a href="/artists/manuel-ocampo">Manuel Ocampo</a></li>
+    <li><a href="/artists/barthelemy-toguo">Barthémémy Toguo</a></li>
+  </ul>
   <h2 class="title">{{ .Params.forthcoming_event_2 | markdownify }}</h2>
   <p class="subtitle is-size-4">{{ .Params.forthcoming_event_date_2 | markdownify }}</p>
   <div class="columns">
@@ -79,4 +36,5 @@
     </div>
   </div>
 </section>
+
 {{ end }}

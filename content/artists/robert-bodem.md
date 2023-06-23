@@ -16,3 +16,5 @@ Bodem graduated cum laude from Boston University with a undergraduate degree in 
 {{% artist-img id="73756c6f-ab1f-4c8f-7390-c34722755800" title="Feline (Edition #: 6 of 12)" size="49x75x30cm" medium="Bronze with Travertine base" date="Sculpted 2014 cast in bronze 2023" %}}
 
 {{% artist-img id="db9a182a-7561-437c-0c9b-472de8291100" title="Negative Spaces (Edition #: 3 of 12)" size="87x25x25cm" medium="Bronze" date="2016 cast in bronze 2023" %}}
+
+The works Feline and Negative spaces will be exhibited all summer at Wilhemina’s Art Gallery. For more information about prices and shipping please contact Wilhelmina using the [contact form](/#contact).
