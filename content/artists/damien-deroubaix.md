@@ -24,3 +24,9 @@ Deroubaix was born on May 9, 1972, in Lille, France. He graduated from the Regio
 {{% artist-img id="49987e61-ebaa-445f-bf09-cb477650e100" title="Melancholia (Rhinocéros)" size="33x24cm" medium="Oil and collage on canvas" date="2019" %}}
 
 {{% artist-img id="41082719-c96c-45e3-ebbd-f32aeb34b900" title="Melancholia III (Venus de Hohle Fels)" size="33x24cm" medium="Oil and collage on canvas" date="2019" %}}
+
+{{% artist-img id="b20e77a4-7fc8-4cf7-775f-2dc030ce5300" title="Sueño" size="200x150cm" medium="Oil and collage on canvas" date="2021" %}}
+
+{{% artist-img id="6360574c-5d06-44b7-773f-fa48945c7900" title="The Wait" size="33x24cm" medium="Oil and collage on canvas" date="2019" %}}
+
+{{% artist-img id="5d8f17d4-5591-47cb-bd1e-03d708ed9300" title="Time" size="200x150cm" medium="Oil and collage on canvas" date="2021" %}}

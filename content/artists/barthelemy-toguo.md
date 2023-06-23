@@ -17,4 +17,12 @@ Barthélémy Toguo is a Cameroonian painter, visual and performing artist born i
 
 {{% artist-img id="f796366d-4e57-4b26-4d5c-635d36300700" title="Dance of Flowers" size="100x100cm" medium="Ink on canvas" date="2022" %}}
 
-{{% artist-img id="e56d44cd-5f53-470f-7f91-2f8e41960700" title="Purification XVI" size="113x92cm" medium=" Watercolour on paper mounted on canvas" date="2007" %}}
+{{% artist-img id="e56d44cd-5f53-470f-7f91-2f8e41960700" title="Purification XVI" size="113x92cm" medium="Watercolour on paper mounted on canvas" date="2007" %}}
+
+{{% artist-img id="a488aa3b-cfb9-4a23-f16f-08d361517100" title="Danseuse dans la cour" size="180x120cm" medium="Enamel on steel" date="2019" %}}
+
+{{% artist-img id="042bd70a-96ce-452b-cb92-41be37640300" title="L'arrivée de ma fille" size="180x120cm" medium="Enamel on steel" date="2019" %}}
+
+{{% artist-img id="20a960ca-c0ca-4231-e53b-8fc1df12f500" title="Protector I" size="100x100cm" medium="Enamel on steel" date="2022" %}}
+
+{{% artist-img id="8053fe6a-d445-4777-897a-54b074b90200" title="Protector II" size="100x100cm" medium="Enamel on steel" date="2022" %}}
