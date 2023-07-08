@@ -33,10 +33,17 @@
               placeholder="Tell us what you're thinking about..."></textarea>
           </label>
 
+          <label class="is-block mb-4">
+            <span class="is-block mb-2">5 + 8 = ?</span>
+            <input required name="Captcha" type="text" class="input" placeholder="Enter calculated value" />
+          </label>
+
           <div class="mb-4">
             <button type="submit" class="button is-link px-4">Contact Us</button>
           </div>
           <input type="hidden" name="Redirect URL" value="{{ .Permalink }}#thanks">
+          <input type="hidden" name="Failed redirect URL" value="{{ .Permalink }}#failed">
+          <input type="hidden" name="Captcha question" value="5 + 8">
         </form>
       </aside>
       <ul class="is-size-5 svg-list">
