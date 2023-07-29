@@ -130,12 +130,16 @@
       "title"
     ],
     "ids": [
+      "act-i",
+      "act-ii",
+      "act-iii",
       "contact",
       "footer",
       "footer-logo",
       "footer-menu",
       "information-we-collect-summarized",
       "legal",
+      "life-is-a-dream",
       "logo",
       "navbar",
       "navbarBasicExample",
