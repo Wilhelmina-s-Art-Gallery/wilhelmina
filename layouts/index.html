@@ -15,4 +15,25 @@
       <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/2bc60311-7552-44fb-b565-eeb159b0d300/logo" alt="Nosbaum Reding Gallery">
     </div>
   </section>
+  <section class="container is-fluid">
+  <div class="columns">
+    <div class="column">
+      <div class="card">
+        <div class="card-image">
+          <figure class="image is-4by3">
+            <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/3fb9fb90-20f9-44a9-75e3-9c6a77aaba00/fit=contain" alt="Wilhelmina Art Gallery,2024">
+          </figure>
+        </div>
+        <div class="card-content">
+          <div class="media">
+            <div class="media-content">
+              <p class="title is-4">{{ .Params.forthcoming_event_1 | markdownify }}</p>
+              <p class="subtitle is-6">{{ .Params.forthcoming_event_date_1 | markdownify }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </section>
 {{ end }}
