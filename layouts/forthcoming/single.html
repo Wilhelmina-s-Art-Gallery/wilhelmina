@@ -8,27 +8,14 @@
     </ul>
   </div>
   <h2 class="title">{{ .Params.forthcoming_event_1 | markdownify }}</h2>
-  <p class="subtitle is-size-4">{{ .Params.forthcoming_event_date_1 | markdownify }}</p>
-  <div class="columns">
-    <div class="column">
-      <div class="card">
-        <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/1a169a65-efcf-4bf4-e611-27456dccf600/fit=cover,quality=60" alt="Romain Cadilhon, Softly and Forever">
-          </figure>
-        </div>
-      </div>
+  <article>
+    <div class="has-text-centered">
+      <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/bc4b5741-3254-4314-8611-3972426d9f00/public"/>
+      <p>In collaboration with:</p>
+      <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/adce403b-61ab-49e5-1edb-d02c6a660300/logo" alt="Istanbul '74">
     </div>
-    <div class="column">
-      <div class="card">
-        <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/2ddf00e7-a1fa-4c33-aaf7-17b2c3693900/fit=cover,quality=60" alt="Romain Cadilhon, Lady Lindon">
-          </figure>
-        </div>
-      </div>
-    </div>
-  </div>
+    {{ .Content }}
+  </article>
 </section>
 
 {{ end }}
