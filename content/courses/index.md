@@ -20,6 +20,8 @@ Some more theory but from a boat. We’ll sail or motorboat around Hydra and in 
 
 Back at the gallery we will go through some practical exercises to finish preparing you as you enter phase two of the course : setting up your own exhibition. A guided visit to the DESTE Foundation and a studio visit.
 
+#### Days 4-10
+
 You can opt to leave the course at this point or you can stay on and from days 4 - 10 you will organize your own exhibition culminating in an opening on day 9.
 
 #### Day 10
@@ -31,10 +33,10 @@ By the end of this course you will have a firm understanding of what it entails 
 
 _For more information please contact Wilhelmina using the contact form and leave a number of you wish to be called back._
 
-**Dates available between 6th - 16th September Luxembourg**
+**Dates available between 6th - 16th September Hydra**
 
 **Dates available between
-Ten day course 6th - 16 th November
+Ten day course 6th - 16h November Luxembourg
 (4 day courses : Tues, Wed, Thurs, Friday available mid-week through November and December.)
 Long weekends available and subject to availability upon request.**
 
@@ -52,3 +54,21 @@ Some more theory in which I’ll illustrate the most common pitfalls beginners c
 Back at the gallery we will go through some practical exercises to finish preparing you as you enter phase two of the course : setting up your own exhibition. A guided visit to the Mudam. Dinner.
 
 You can opt to leave the course at this point or you can stay on and from days 4 - 10 you will organize your own exhibition culminating in an opening on day 9.
+
+#### Day 10
+
+There will be a final debrief at lunch time with a simulation of what it might be like in the aftermath of an art fair including a quick demo on “deinstallation” to illustrate the most common pitfalls to be avoided.
+
+#### Day 11 - departures
+
+This course will coincide with an opening either at a major Luxembourgish gallery or contemporary art institution. You will have met artists, curators and gallerists of international importance at the heart of Europe.
+
+Maximum 6 people.
+
+#### Prices
+
+Hydra + Luxembourg
+4 nights (full board and lodging) 1500 €
+4 nights (meals, no accommodation) 750 €
+10 nights (full board and lodging) 2500 €
+10 nights (meals, no accommodation) 1250 €
