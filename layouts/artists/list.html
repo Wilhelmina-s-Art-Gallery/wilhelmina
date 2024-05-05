@@ -1,13 +1,22 @@
 {{ define "main" }}
-<div class="post">
-  <div class="content">
-    <h1>{{ .Title }} hello list</h1>
-    {{ .Content }}
-    <ul>
-      {{ range .Pages }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    </ul>
-  </div>
-</div>
+<section class="container is-fluid">
+  <article>
+    <h1>{{ .Title }}</h1>
+    <div class="columns is-8 is-multiline">
+        {{ range .Pages }}
+        <div class="column
+        is-one-half-mobile
+        is-one-third-tablet
+        is-one-quarter-desktop
+        is-one-fifth-widescreen
+        is-one-sixth-fullhd">
+            <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
+            <div class="content">
+                <p>{{ .Description }}</p>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+  </article>
+</section>
 {{ end }}
