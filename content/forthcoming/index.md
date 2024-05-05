@@ -16,9 +16,7 @@ Wilhelmina’s Art Gallery presents Magic Mirror, an exhibition curated by Wilhe
 venues on Hydra Island, Greece, in the summer of 2024 and is devoted to the artist’s
 power to reflect, transform and distort reality.
 
-Thirty-three international artists (emerging and acclaimed) have been asked to present works
-where mirrors, their uses and their users play out in all their enchanting complexity
-through painting, collage, sculpture, film and photography.
+Thirty-three international artists (emerging and acclaimed) have been asked to present works where mirrors, their uses and their users play out in all their enchanting complexity through painting, collage, sculpture, film and photography.
 
 This exhibition is a tapestry of illusions, a web of experiences that escape the
 rational mind. Magic Mirror is a reflection on how we perceive the world; an invitation

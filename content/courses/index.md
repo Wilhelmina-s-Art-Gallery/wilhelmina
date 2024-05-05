@@ -1,3 +1,4 @@
+---
 title: "The Pre-Gallerist course"
 slug: "courses"
 ---
