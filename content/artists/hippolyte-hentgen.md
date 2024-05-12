@@ -11,3 +11,6 @@ showthedate: false
 noindex: false
 lastmod: 2023-04-06T15:37:00-06:00
 ---
+{{% artist-img id="3bda16ca-54c0-49ad-b0a0-3ad96ec87900" title="Bleu Vapeur" size="175.5 cm x 170 cm" medium="Acrylic and ink on canvas" date="2021" %}}
+
+{{% artist-img id="dfa6e3cf-4ac5-450a-8baf-f1e38ed1ea00" title="Bleue Vapeur" size="210.5 x 192 cm" medium="Acrylic and ink on canvas" date="2021" %}}
