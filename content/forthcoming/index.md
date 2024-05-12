@@ -22,7 +22,7 @@ This exhibition is a tapestry of illusions, a web of experiences that escape the
 rational mind. Magic Mirror is a reflection on how we perceive the world; an invitation
 to explore what lies beyond our immediate senses.
 
-**Pilar Abarracin • Alison Jones • Emma Ainala • Iasonas Kampanis • Loukia Alavanou • Irini Karayannopoulou • Belkis Balpinar • Marin Kasimir • Burçak Bingöl • Peggy Kouroumalos • Lindsey Calla • Natalia Manta • The Callas • Didier Marcel • St Clair Cemin • Theo Michael • Charlotte Colbert • Robert Montgomery • Simon Demeuter • Zoe Paul • Lionel Esteve • Matthieu Renard • Helen Flockhart • Philip Tsiaras • Hilary Galbreaith • Andreas Vais • Marianna Hatzinikolaou • Xenia Vitos • Hippolyte Hentgen • William Wegman • Maria Joannou • Janet Werner • Erwin Wurm**
+**Pilar Abarracin • Alison Jones • Emma Ainala • Iasonas Kampanis • Loukia Alavanou • Irini Karayannopoulou • Belkis Balpinar • Marin Kasimir • Burçak Bingöl • Peggy Kouroumalos • Lindsey Calla • Natalia Manta • The Callas • Didier Marcel • St Clair Cemin • Theo Michael • Charlotte Colbert • Robert Montgomery • Simon Demeuter • Zoe Paul • Lionel Esteve • Mathieu Renard • Helen Flockhart • Philip Tsiaras • Hilary Galbreaith • Andreas Vais • Marianna Hatzinikolaou • Xenia Vitos • Hippolyte Hentgen • William Wegman • Maria Joannou • Janet Werner • Erwin Wurm**
 
  For The Magic Mirror exhibition Wilhelmina’s art gallery has secured partnerships
  with Istanbul’74 who will co-host the VIP Preview Dinner at Captain M, Mandraki

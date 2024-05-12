@@ -13,6 +13,6 @@ lastmod: 2023-04-06T15:37:00-06:00
 ---
 {{% artist-img id="50eedf15-6a86-4448-7cf6-9ca1cbb5fa00" title="Self Portrait as a Pickle" size="103 x 9 x 5 cm" medium="Acrylic on iron" date="2024" %}}
 
-{{% artist-img id="31928996-0f05-499c-0126-c3bc043bcc00" title="Self Portrait as a Pickle II" size="110 x 5 c 6 cm" medium="Acrylic on iron" date="2024" %}}
+{{% artist-img id="d4c04a06-e5bf-40ec-d15a-c9956dccc400" title="Self Portrait as a Pickle IV" size="110 x 5 c 6 cm" medium="Acrylic on iron" date="2024" %}}
 
-{{% artist-img id="4585bd92-3118-47ee-6010-90fd826beb00" title="Self Portrait as a Pickle III" size="103 x 9 x 6 cm" medium="Acrylic on iron" date="2024" %}}
+{{% artist-img id="4993c13d-3517-41b8-3449-edd4b85d0000" title="Self Portrait as a Pickle VII" size="103 x 9 x 6 cm" medium="Acrylic on iron" date="2024" %}}

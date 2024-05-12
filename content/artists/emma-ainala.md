@@ -3,7 +3,7 @@ type: "artists"
 title: "Emma Ainala"
 slug: "emma-ainala"
 seoTitle: "Wilhelmina's Art Gallery: Emma Ainala"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget nunc et velit suscipit porta sed nec libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie sodales risus ac ullamcorper. Proin rhoncus risus ut sem lacinia dignissim placerat eros consectetur. Curabitur viverra, neque nec porttitor semper, sapien massa euismod erat, eget rutrum eros ligula sed nibh. Etiam purus felis, congue sed porta id, elementum ac dui. Nunc mattis justo in nisl consectetur a aliquam sem condimentum. Maecenas faucibus risus in augue egestas posuere. Proin aliquam luctus justo vitae adipiscing. Nunc porta blandit egestas. Integer scelerisque placerat urna, sed ultricies risus sollicitudin quis."
+description: "Emma Ainala is known for her intricate, detailed works that explore mythologies and a variety of spaces, both physical and digital – some even imagined. The human body, with its ambivalent gestures and expressions, is at the center of the works, being the object of the gaze and objectification are recurring themes. Her dreamlike paintings are at the same time very much in the present and contain references to art and cultural history. The thoughtful symbolism of the interiors of the works and the fragmented, dense surface enable several different interpretations and visits to parallel realities. Ainala's carefully stylized paintings are like performances of some unfinished and mysterious situation.."
 featured_img: "65faa65a-5a7d-4b23-bcf6-99dda9d1a200"
 summary: ""
 date: 2014-07-01T14:00:00-06:00
