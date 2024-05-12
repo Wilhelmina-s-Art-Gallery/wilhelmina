@@ -10,10 +10,22 @@
         is-one-quarter-desktop
         is-one-fifth-widescreen
         is-one-sixth-fullhd">
-            <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
-            <div class="content">
-                <p>{{ .Description }}</p>
-            </div>
+          <div class="card">
+            <a href="{{ .Permalink }}">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img
+                    src="{{ .Site.Params.cloudflare_images }}{{ .Params.featured_img }}/height=380,fit=cover,quality=60" alt=""
+                  />
+                </figure>
+              </div>
+              <div class="card-header">
+                <div class="card-header-title">
+                  <p class="subtitle">{{ .Title }}</p>
+                </div>
+              </div>
+            </a>
+          </div>
         </div>
         {{ end }}
     </div>
