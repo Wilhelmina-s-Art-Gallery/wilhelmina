@@ -12,3 +12,6 @@ noindex: false
 lastmod: 2023-04-06T15:37:00-06:00
 ---
 {{% artist-img id="dc4c8f8e-e08b-4c37-4a1b-8996f22f4f00" title="A la recherche de la pièce manquante" size="29,7 X 21 cm" medium="Diabond mirror (painted)" date="2024" %}}
+
+---
+{{% artist-img id="9a0afee0-a1c5-4a19-7e61-87c5c4655800" title="A la recherche de la pièce manquante" size="29,7 X 21 cm" medium="Diabond mirror (painted)" date="2024" %}}
