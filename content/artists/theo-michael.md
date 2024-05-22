@@ -3,7 +3,7 @@ type: "artists"
 title: "Theo Michael"
 slug: "theo-michael"
 seoTitle: "Wilhelmina's Art Gallery: Theo Michael"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget nunc et velit suscipit porta sed nec libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie sodales risus ac ullamcorper. Proin rhoncus risus ut sem lacinia dignissim placerat eros consectetur. Curabitur viverra, neque nec porttitor semper, sapien massa euismod erat, eget rutrum eros ligula sed nibh. Etiam purus felis, congue sed porta id, elementum ac dui. Nunc mattis justo in nisl consectetur a aliquam sem condimentum. Maecenas faucibus risus in augue egestas posuere. Proin aliquam luctus justo vitae adipiscing. Nunc porta blandit egestas. Integer scelerisque placerat urna, sed ultricies risus sollicitudin quis."
+description: "Theo Michael, a Greek artist based in Mexico and Athens, holds degrees in Fine Art from Aristotle University and Utrecht School Of Art, as well as a Masters from Wimbledon School Of Art. His diverse work has been exhibited globally, from Mexico City to Marseille, featured in various publications, and showcased in solo exhibitions. Michael's art spans graphite drawings of turbulent seas to speculative models of shelters, weathered digital collages, and sculptures. His approach challenges conventional thinking, incorporating self-vandalization as a method, and explores themes of ruination, evolution, and the blurring of cultural boundaries. Michael aims to create art that prompts curiosity, raising questions about alternative universes and histories."
 featured_img: "97bfd99f-f0dc-464b-9727-4bf4f1a75400"
 summary: ""
 date: 2014-07-01T14:00:00-06:00
