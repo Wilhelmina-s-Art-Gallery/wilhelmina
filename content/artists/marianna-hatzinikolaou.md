@@ -11,15 +11,10 @@ showthedate: false
 noindex: false
 lastmod: 2023-04-06T15:37:00-06:00
 ---
-{{% artist-img id="8a93a97b-7d4d-40dd-895c-edb4e6d65500" title="(Sous le regard du) Singe" size="20,5 X 29 cm" medium="Inkjet print on 320 gsm Hahnemühle paper, tempera, gold leaf, spray paint, burn marks" date="2022" %}}
-
-{{% artist-img id="3cdef30e-415d-4d49-086b-b59863405300" title="Blossom" size="29,7 X 21 cm" medium="Inkjet print on bamboo paper painted with tempera and gouache, magnets" date="2022" %}}
 
 {{% artist-img id="7a5c1a66-4662-48f2-bf77-f4d29b10e300" title="Candlelight" size="18 X 28 cm" medium="Inkjet print on Hahnemühle paper, acrylic, watercolor, silver thread, pearl" date="2023" %}}
 
 {{% artist-img id="f4d0931d-9fec-41b7-0e56-2ae96bfa8100" title="Dreaming" size="29,7 X 21 cm" medium="Inkjet printing on 40g kozo paper, watercolor, gofun, graphite" date="2022" %}}
-
-{{% artist-img id="aef13cd0-9713-4ca6-cc88-6622e8a3ce00" title="Dreaming (moi)" size="29,7 X 21 cm" medium="Inkjet printing on 40g kozo paper, watercolor, gofun, graphite" date="2023" %}}
 
 {{% artist-img id="c2de6ea4-694a-4ee6-ffaf-aa874b3fb900" title="Ennui" size="29,7 X 21 cm" medium="Inkjet print on Hahnemühle Torchon 285 gsm paper, tempera, silver watercolor, glass lenses" date="2023" %}}
 

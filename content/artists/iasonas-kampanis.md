@@ -11,6 +11,9 @@ showthedate: false
 noindex: false
 lastmod: 2023-04-06T15:37:00-06:00
 ---
+**Artist's statement**
+
+My work and research are based on Mediterranean culture and the place that animals and non-human natural entities hold within it. Traces of human presence, rather than its solid depiction,function as an acknowledgment of the animistic origins of religious worship, and the concept of 'authorization' to the protective spirits of a place, the geniilocorum of classical Roman religion. As the term genius loci today also refers to the character or the essence of a place, spirituality within this notion cannot be of meaning, for me, if cut off from the transcendental and from its manifestations in the relationships among the artificial and the natural world. The evolution of the conquering practices of humans towards our species and by extension towards nature, gradually distanced us from its homogeneous, spiritual and symbolic value, with the consequence that we compete with it by positioning it as controllable, fully expendable and constantly observed. Therefore, I seek to contribute in bringing back to the center of the discussion, our mystical type of kinship with the other animals, our identification with them, and by extension, with nature. My primary motivation is in the renewal of our communication with the enduring character of a place, within the experience of the sacred, within the sense of universality and its sources, all of which we have abused to such an extent that we find it difficult to define ourselves outside of our anthropocentric evocations.
 
 {{% artist-img id="a72419f6-4355-4bac-5433-bb7fbf8bb500" title="Lalo" size="167 x 125 cm" medium="Acrylics on fabric mounted on wood" date="2023" %}}
 
