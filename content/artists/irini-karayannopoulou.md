@@ -16,8 +16,6 @@ lastmod: 2023-04-06T15:37:00-06:00
 
 {{% artist-img id="81a23b39-dcca-4980-3c00-7f93a7e01e00" title="Daffodil (Barcissus Ophelia)" size="60cm diameter" medium="Oil on linen" date="2024" %}}
 
-{{% artist-img id="d2322663-ea4c-4fa0-2467-58dd7122dc00" title="Daffodil (Barcissus Ophelia)" size="60cm diameter" medium="Oil on linen" date="2024" %}}
-
 {{% artist-img id="2ee2f2fd-338d-4aaf-1210-eb6bf896a900" title="Forgoitten Until Rediscovered" size="60 x 60cm" medium="Oil on linen" date="2024" %}}
 
 {{% artist-img id="de210199-08ed-4ec8-23b0-e66710cc3200" title="Gloria" size="80 x 60cm" medium="Oil on linen" date="2024" %}}

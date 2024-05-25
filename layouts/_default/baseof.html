@@ -14,7 +14,7 @@
       </header>
       <main class="content">{{ block "main" . }} {{ .Content }} {{ end }}</main>
       <footer id="footer" class="has-background-light">
-        {{ block "footer" . }} {{ partial "footer/fat-footer.html" . }}  {{ partial "footer/legal-info.html" . }}{{ end
+        {{ block "footer" . }} {{ partial "footer/fat-footer.html" . }}  {{ partial "footer/legal-info.html" . }} {{ partial "footer/sponsors.html" . }}{{ end
         }}
       </footer>
       {{ partial "footer/footer-scripts.html" . }}
