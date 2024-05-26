@@ -85,6 +85,7 @@
       "is-hidden-mobile",
       "is-large",
       "is-link",
+      "is-mobile",
       "is-multiline",
       "is-one-fifth-widescreen",
       "is-one-half-mobile",
