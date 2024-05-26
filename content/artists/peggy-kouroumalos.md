@@ -3,8 +3,7 @@ type: "artists"
 title: "Peggy Kouroumalos"
 slug: "peggy-kouroumalos"
 seoTitle: "Wilhelmina's Art Gallery: Peggy Kouroumalos"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget nunc et velit suscipit porta sed nec libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie sodales risus ac ullamcorper. Proin rhoncus risus ut sem lacinia dignissim placerat eros consectetur. Curabitur viverra, neque nec porttitor semper, sapien massa euismod erat, eget rutrum eros ligula sed nibh. Etiam purus felis, congue sed porta id, elementum ac dui. Nunc mattis justo in nisl consectetur a aliquam sem condimentum. Maecenas faucibus risus in augue egestas posuere. Proin aliquam luctus justo vitae adipiscing. Nunc porta blandit egestas. Integer scelerisque placerat urna, sed ultricies risus sollicitudin quis."
-featured_img: "8a40381e-4f8b-4de2-2401-46abe6183300"
+description: "Peggy Kouroumalos is an artist from Toronto, Ontario currently living in Montreal, Quebec. She studied drawing and painting at the Ontario College of Art + Design University and in 2015 graduated with an MFA at Concordia University. Trained mainly as an oil painter, she has recently switched her focus to watercolour and ceramics where she creates work composed of interchangeable elements: symbols and icons that create ongoing open-ended narratives that explore death, desire, and transformation. Her art reveals a fever dream soaked with ancient Greek myth interspersed with pop cultural elements from film, literature, and historical art, aiming to strike the balance between the mythic and mundane, the sacred and profane. She has exhibited in Canada, the U.S. and Europe, has participated in international residencies and is a recipient of grants from the Elizabeth Greenshields Foundation and the Conseil des art et des Lettres du Quebec."
 summary: ""
 date: 2014-07-01T14:00:00-06:00
 showthedate: false

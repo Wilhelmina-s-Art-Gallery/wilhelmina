@@ -2,8 +2,7 @@
 type: "artists"
 title: "Simon Demeuter"
 slug: "simon-demeuter"
-seoTitle: "Wilhelmina's Art Gallery: Simon Demeuter"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eget nunc et velit suscipit porta sed nec libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla molestie sodales risus ac ullamcorper. Proin rhoncus risus ut sem lacinia dignissim placerat eros consectetur. Curabitur viverra, neque nec porttitor semper, sapien massa euismod erat, eget rutrum eros ligula sed nibh. Etiam purus felis, congue sed porta id, elementum ac dui. Nunc mattis justo in nisl consectetur a aliquam sem condimentum. Maecenas faucibus risus in augue egestas posuere. Proin aliquam luctus justo vitae adipiscing. Nunc porta blandit egestas. Integer scelerisque placerat urna, sed ultricies risus sollicitudin quis."
+seoTitle: "Born in 1991 in Soignies, Belgium, Simon Demeuter resides and practices his artistic activity in Brussels. His pictorial approach is guided by a bold desire for the simplification of forms, giving his creations a pictorial freshness and striking spontaneity. Color plays a central role in Demeuter's artistic expression, serving as an essential tool to evoke emotions, impressions, sensations, moods, and physical or mental states. The artist's sources of inspiration draw from childhood memories as well as travels and encounters. His imagery transports one towards both internal landscapes and references to popular art, impressionists, cinema, or music. An ordinary object, as arbitrary as it may seem, can be the starting point for a new series of paintings. Regarding models, they become objectified motifs like any other elements. Compositions and settings are repainted infinitely, with gestural variations in color, size, and imperfections. In doing so, Simon seeks to unearth the trace of an emotion in the simplest and most stripped-down manner possible. He has had solo exhibitions at The Cabin, Los Angeles (USA, 2019) and Sorry We’re Closed, Brussels (Belgium, 2019). Demeuter has participated in group exhibitions at Frac Champagne-Ardenne, Reims (France, 2021); Can Marqués, Palma (Spain, 2021); Gilles Drouault Galerie Des Multiples, Paris (France, 2020) and Generation Brussels, curated by Evelyn Simons (Brussels, 2020)."
 featured_img: "e8dd26cd-43da-449f-320c-af950b102900"
 summary: ""
 date: 2014-07-01T14:00:00-06:00
@@ -11,3 +10,7 @@ showthedate: false
 noindex: false
 lastmod: 2023-04-06T15:37:00-06:00
 ---
+
+{{% artist-img id="1360a8a2-6dd2-4de5-72a8-320547314e00" title="Vestige" size="50 x 40 cm" medium="Acrylic, chalk and oil on paper" date="2023" %}}
+
+{{% artist-img id="9d47ca9d-6c2c-43ee-6eb7-7a3d50ecfb00" title="Vestige" size="50 x 60 cm" medium="Acrylic, chalk and oil on paper" date="2023" %}}
