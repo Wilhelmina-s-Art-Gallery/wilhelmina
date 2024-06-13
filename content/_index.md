@@ -7,6 +7,6 @@ date: 2014-07-01T14:00:00-06:00
 hero_title: Magic Mirror
 hero_subtitle:
 exhibition_date: 17th June - 21st July 2024
-forthcoming_event_1: Magic Mirror
-forthcoming_event_date_1: 7th June - 21st July
+forthcoming_event_1:
+forthcoming_event_date_1:
 ---
