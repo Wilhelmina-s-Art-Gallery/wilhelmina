@@ -18,34 +18,8 @@
     </ul>
   </div>
   <article>
-    <div class="columns">
-      <div class="column is-5">
         <div class="has-text-weight-semibold">{{ .Params.Description }}</div>
         {{ .Content }}
-      </div>
-      <div class="column is-7">
-        <article class="list">
-          <h2 class="is-size-5-mobile is-size-4-tablet">Artists exhibited and worked with in the past</h2>
-          <div class="columns is-multiline">
-            <div class="column">
-              {{ with .Param "artists_exhibited" }}
-              {{ range $index, $i := first 40 (. | sort) }}
-              <div class="list-item">
-                <div class="list-item-content">
-                  <div class="list-item-description">{{ $i | markdownify }}</div>
-                </div>
-              </div>
-              {{ if modBool (add $index 1) 10 }}
-            </div>
-            <div class="column">
-              {{ end }}
-              {{- end -}}
-              {{ end }}
-            </div>
-          </div>
-        </article>
-      </div>
-    </div>
   </article>
 </section>
 {{ end }}
