@@ -18,7 +18,7 @@ A love for art, a dynamic mentor in Alex Reding of the [Nosbaum Reding](https://
 
 WAG’s will also host talks, performance art and perhaps even some concerts:
 
-> The tail wagging the dog is an image I love. I love it because on the one hand it denotes being greater than the sum of ones parts and on the other generosity of spirit, love and energy which are WAG’s core values and is one of my main takeaways from working at Nosbaum Reding.
+> The tail wagging the dog is an image I love.  I love it because on the one hand it denotes being greater than the sum of ones parts and on the other generosity of spirit, love and energy which are WAG’s core values and is one of my main takeaways from working at Nosbaum Reding.
 
 It was thanks to a meeting of minds with artist and curator Ekaterina Jukowski of the Old Carpet Factory (OFC) Recording Studio and Art Residency on Hydra that the idea for the first WAG’s exhibition took root. Ekaterina was researching the history of the OCF and as she related the story to Wilhelmina, unlikely people and places past, present and future converged in the Italian RCA trained artist Bea Bonafini. In 2021 she had collaborated with Electra Soutzoglou’s _Art Rugs Project_ at Ten Carpets in Athens, the same family that had once owned the OFC weaving business on Hydra from 1922 to 1974. Meanwhile, Bea happened to have a show in Luxembourg with Nosbaum Reding the following week where Wilhelmina was working at the time. The sense of destiny was in the air and after meeting Bonafini and seeing her works, Wilhelmina knew she couldn’t open the gallery with anybody else.
 
