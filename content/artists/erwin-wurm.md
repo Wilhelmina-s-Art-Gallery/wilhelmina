@@ -2,7 +2,7 @@
 type: "artists"
 title: "Erwin Wurm"
 slug: "erwin-wurm"
-seoTitle: "Wilhelmina's Art Gallery: Erwin Wurm"
+seoTitle: "Wilhelmina's: Erwin Wurm"
 description: "Over the course of his career, Erwin Wurm has radically expanded conceptions of sculpture, space and the human form. His sculptures straddle abstraction and representation, presenting familiar objects in a surprising and inventive way that prompts viewers to consider them in a new light. He often explores mundane, everyday decisions as well as existential questions in his works, focusing on the objects that help us cope with daily life and through which we ultimately define ourselves. These include the material objects that surround us – the clothes we wear, the cars we drive, the food we eat and the homes we live in. He was born in 1954, and lives in Vienna and Limberg, Austria."
 featured_img: "fd9adb06-657e-4c73-c9a6-0dc4fddc7b00"
 summary: ""

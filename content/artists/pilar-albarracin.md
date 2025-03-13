@@ -2,7 +2,7 @@
 type: "artists"
 title: "Pilar Albarracín"
 slug: "pilar-albarracin"
-seoTitle: "Wilhelmina's Art Gallery: Pilar Albarracín"
+seoTitle: "Wilhelmina's: Pilar Albarracín"
 description: "Pilar Albarracín makes transgression and humor both plastic and political tools. Since the early 1990s, the Spanish artist has opened areas of feminist claims through her works. For this, she chose to analyze in a viscerally critical way the Andalusian folklore, popular culture and vernacular. She thus examines the culture which has been transmitted to her and which constitutes a large part of her identity. From flamenco to Catholic rituals, bullfighting and baroque art, the artist takes each tradition head on. By physically imposing herself at the heart of powerful territories and symbols of a patriarchal culture, Pilar Albarracín is claiming part of a collective history, that of women. With undisguised anger, she exaggerates, she multiplies, she moves, she assaults or strangles stereotypes and ancestral traditions. In this, she appropriates costumes, props, symbols and decorum of rituals where men and women are confined to specific roles. If we focus exclusively on women, their roles and modes of representation are particularly limited and/or invisible. The actions, photographs, embroidery and misappropriated objects aim to deconstruct these roles and to become aware of the shortcomings, absences and prohibitions. The rituals she invests and revisits are inscribed in an identity thought guided by religious morality and patriarchal ideology that the artist strives to turn around and undo.
 ."
 featured_img: "f6e36192-7315-47b8-7ffc-038f3a559600"

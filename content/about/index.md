@@ -1,9 +1,9 @@
 ---
 type: "about"
-title: "Wilhelmina's Art Gallery"
+title: "Wilhelmina's"
 slug: "about"
 images: "https://www.silverejarrosson.com/cdn-cgi/imagedelivery/L0HrrfgxmX01pIlKW6n82w/b038bc0e-02b7-4589-43ec-2304cc3ebc00/w=1280"
-seoTitle: "Wilhelmina's Art Gallery"
+seoTitle: "Wilhelmina's"
 description: "Wilhelmina’s Art Gallery exhibits contemporary works by International artists on Hydra between June and October. The exhibitions are displayed inside a historic building on Mandraki Beach that was once the Captain’s Mansion. This year the artists displayed are vastly different but share in common supreme technical skill and treat subjects rooted in universal themes, particularly nature, myth, philosophy and dreams."
 summary: "Les expositions du peintre Silvère Jarrosson sont des jalons de son cheminement artistique, chacune abordant une thématique, un regard sur la peinture contemporaine et la façon de l'exposer. Solo ou collectives, en galerie ou dans des institutions culturelles, chacune traduit une certaine lecture de son œuvre."
 date: 2014-07-01T14:00:00-06:00

@@ -2,7 +2,7 @@
 type: "artists"
 title: "Lindsey Calla"
 slug: "lindsey-calla"
-seoTitle: "Wilhelmina's Art Gallery: Lindsey Calla"
+seoTitle: "Wilhelmina's: Lindsey Calla"
 description: "Lindsey Calla is an abstract fine art mixed media artistliving between Santa Fe, New Mexico and Hydra, Greece. Each Earth Aura is an abstract capture of the natural rock landscape printed with archival ink on paper madeof desert-dwelling sisal agave. The work lives as ameditation on organic simplicity with the colors of therock strata vibrating with harmony and resonating withlight. Each Earth Aura communicates a vibration that isalive in the landscape, the beautiful arrangement of partsin accordance with nature.  Imprinted like fingerprints, each Earth Aura softlydemands contemplation and adheres to the magicalcommon language of the universe: harmony & order. Her painterly quality of the abstract photographcombined with organic paper and earth pigmentinstallation begs the viewer to ask: brush or camera?"
 featured_img: "b3c76372-6a12-443d-05db-19522eb8f000"
 summary: ""

@@ -2,7 +2,7 @@
 type: "artists"
 title: "Robert Montgomery"
 slug: "robert-montgomery"
-seoTitle: "Wilhelmina's Art Gallery: Robert Montgomery"
+seoTitle: "Wilhelmina's: Robert Montgomery"
 description: "Robert Montgomery follows a tradition of conceptual art and stands out by bringing a poetic voice to the discourse of text art. Montgomery creates billboard poems, light pieces, fire poems, woodcuts and watercolors. He was selected to represent the United Kingdom at the Lyon Biennale of contemporary art (France) in 2011, the Kochi Biennale (India) in 2012, and the Yinchuan Biennale (China) in 2016. He has produced large-scale light installations in the public space in various European cities like Berlin, London, Paris, Athens, and more. His work has been presented at the Aspen Art Museum (USA), the Oklahoma Contemporary Arts Center (USA), or the Cer Modern Museum (Ankara, Turkey). His works are in the permanent collections of the Houston Museum of Fine Arts and the Albright Knox Museum (USA)."
 featured_img: "61242fdf-806d-4c68-317b-c4c74b2c8000"
 summary: ""

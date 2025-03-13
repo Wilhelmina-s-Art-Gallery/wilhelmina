@@ -2,7 +2,7 @@
 type: "artists"
 title: "Robert Bodem"
 slug: "robert-bodem"
-seoTitle: "Wilhelmina's Art Gallery: Robert Bodem"
+seoTitle: "Wilhelmina's: Robert Bodem"
 description: "Wilhelmina’s Art Gallery exhibits contemporary works by International artists on Hydra between June and October. The exhibitions are displayed inside a historic building on Mandraki Beach that was once the Captain’s Mansion. This year the artists displayed are vastly different but share in common supreme technical skill and treat subjects rooted in universal themes, particularly nature, myth, philosophy and dreams."
 featured_img: "480f0453-d1e7-4d75-46ec-b585866cc800"
 summary: ""

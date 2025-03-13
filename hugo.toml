@@ -1,11 +1,11 @@
 baseURL = 'https://www.wilhelmina.gallery/'
 languageCode = 'en-gb'
 timeZone = 'Europe/Athens'
-title = "Wilhelmina's Art Gallery"
-rssTitle = "Wilhelmina's Art Gallery"
+title = "Wilhelmina's"
+rssTitle = "Wilhelmina's"
 # Sets RSS feed title (for RSS readers)
 
-seoTitle = "Wilhelmina's Art Gallery"
+seoTitle = "Wilhelmina's"
 # Sets homepage <title> (for SEO)
 
 disableKinds = ["robotsTXT"]

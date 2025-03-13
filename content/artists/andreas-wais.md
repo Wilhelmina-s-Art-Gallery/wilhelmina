@@ -2,7 +2,7 @@
 type: "artists"
 title: "Andreas Vais"
 slug: "andreas-vais"
-seoTitle: "Wilhelmina's Art Gallery: Andreas Vais"
+seoTitle: "Wilhelmina's: Andreas Vais"
 description: "Born in Athens, where he lives and works. Studied English literature at the University of Athens. He has been exhibiting since 1991. He also experiments with music creating sound pieces which converse with his painting and drawing."
 featured_img: "ec371d4b-d651-4f82-03f4-3c6510c7db00"
 summary: ""
