@@ -2,7 +2,7 @@
 type: "artists"
 title: "Lionel Esteve"
 slug: "lionel-esteve"
-seoTitle: "Wilhelmina's: Lionel Esteve"
+seoTitle: "Wilhelmina’s: Lionel Esteve"
 description: "French artist Lionel Estève was born in Lyon, France, in 1967 He lives and works in Brussels. He is renowned for his surprising combinations of objects and his unusual technique. Situated at the intersection of drawing, sculpture, and installation, Estève’s works are characterized by a very distinctive aura of informality, fragility and sensitivity. Playing with space, color, and sense perceptions, he uses his art as a vehicle to probe themes such as reincarnation, nature, and happiness. The playful interaction of his work with space, colors and sensory perception is the result of a meticulous research using a wide range of materials from leaves found in nature to recyled tetra pak like in the series below. Estève's works are featured in numerous prestigious private and public collections including Centre Georges Pompidou, Paris, France; CNAP, Paris, France; FRAC Bretagne, Rennes, France; Musée des Arts Décoratifs, Namur, Belgium; Macedonian Museum of Contemporary Art, Thessaloniki, Greece; and Thalielab, La Fondation Thalie, Brussels, Belgium"
 featured_img: "b9f390bf-26c5-4eef-b42f-8a8431c3ba00"
 summary: ""

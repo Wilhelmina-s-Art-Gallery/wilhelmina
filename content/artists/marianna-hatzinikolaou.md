@@ -2,7 +2,7 @@
 type: "artists"
 title: "Marianna Hatzinikolaou"
 slug: "marianna-hatzinikolaou"
-seoTitle: "Wilhelmina's: Marianna Hatzinikolaou"
+seoTitle: "Wilhelmina’s: Marianna Hatzinikolaou"
 description: "Marianna Hatzinikolaou is a multidisciplinary artist and publisher who graduated from the Besançon School of Fine Arts. Her work consists of painting, drawing, collage, sculpture, photography, computer processing, and installations. Her most recent solo exhibition took place in Arles, France at the Cyrille Putman gallery in November 2023. She has completed a year long residency at the Cité Internationale des Arts in Paris, has extensively worked as art director and designer for the Greek press (To Vima, Cube Art Editions etc) and has exhibited her draw¬ings and publishing work in places such as the Rebecca Camhi gallery, the Benaki museum, the O Showroom (curated by Ghislaine Dantan), Vamiali’s contemporary art gallery and more. In addition, Marianna Hatzinikolaou has very recently presented Io and her Nice Outfits, (artist books that blend Greek mythology with infographics and collage) at the Consortium Museum in Dijon, France. As well as, a selection of the artist’s works on paper and sculptures have just been exhibited in a solo presentation at the Table d’ Immediats, Publications pour l’Art Contemporain in Arles. She lives and works between France and Greece."
 featured_img: "7149d2fa-8044-4ffd-fe3b-130392b50000"
 summary: ""

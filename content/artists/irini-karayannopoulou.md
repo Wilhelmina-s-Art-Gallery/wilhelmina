@@ -2,7 +2,7 @@
 type: "artists"
 title: "Irini Karayannopoulou"
 slug: "irini-karayannopoulou"
-seoTitle: "Wilhelmina's: Irini Karayannopoulou"
+seoTitle: "Wilhelmina’s: Irini Karayannopoulou"
 description: "Born in 1973 in Greece.  Lives and works in Athens"
 featured_img: "8f6e1823-6cd2-45c0-ced3-f7700da5b800"
 summary: ""

@@ -1,8 +1,8 @@
 ---
 title: "Portrait Artists"
 slug: "portrait-artists"
-seoTitle: "Wilhelmina's: Portrait Artists"
-description: "Wilhelmina's exhibits contemporary works by International artists on Hydra between June and October. The exhibitions are displayed inside a historic building on Mandraki Beach that was once the Captain’s Mansion. This year the artists displayed are vastly different but share in common supreme technical skill and treat subjects rooted in universal themes, particularly nature, myth, philosophy and dreams."
+seoTitle: "Wilhelmina’s: Portrait Artists"
+description: "Wilhelmina’s exhibits contemporary works by International artists on Hydra between June and October. The exhibitions are displayed inside a historic building on Mandraki Beach that was once the Captain’s Mansion. This year the artists displayed are vastly different but share in common supreme technical skill and treat subjects rooted in universal themes, particularly nature, myth, philosophy and dreams."
 summary: "Les expositions du peintre Silvère Jarrosson sont des jalons de son cheminement artistique, chacune abordant une thématique, un regard sur la peinture contemporaine et la façon de l'exposer. Solo ou collectives, en galerie ou dans des institutions culturelles, chacune traduit une certaine lecture de son œuvre."
 date: 2014-07-01T14:00:00-06:00
 showthedate: false

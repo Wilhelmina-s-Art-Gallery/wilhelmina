@@ -2,7 +2,7 @@
 type: "artists"
 title: "Xenia Vitos"
 slug: "xenia-vitos"
-seoTitle: "Wilhelmina's: Xenia Vitos"
+seoTitle: "Wilhelmina’s: Xenia Vitos"
 description: "Xenia C.I. Vitos (b. London, 1977) is a British-Greek multidisciplinary artist currently living in Athens,Greece. She works with embroidery, beading, painting, photography amongst a wide range of other materials. Combining these mediums she constructs installations that narrate her personal reality morphing it into an altered playful/satirical version of itself. Through her artistic practice she mimics religious and folklore iconography in order to use it in her own twisted fairytale environments. Woven into the work is a commentary about Identity, familial ties, rhythms, femininity, biological surrender, the introspective space and Nostalgia. In addition to her artwork she designs ceramic jewelry and objects for her brand IZA,V.
 "
 featured_img: "8bf75f32-e006-47f5-3935-5a7045bde200"

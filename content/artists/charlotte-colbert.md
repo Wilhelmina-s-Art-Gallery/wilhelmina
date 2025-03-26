@@ -2,7 +2,7 @@
 type: "artists"
 title: "Charlotte Colbert"
 slug: "charlotte-colbert"
-seoTitle: "Wilhelmina's: Charlotte Colbert"
+seoTitle: "Wilhelmina’s: Charlotte Colbert"
 description: "Charlotte Colbert is an award-winning filmmaker and multi-media artist. Her work has been shown at galleries, art fairs and institutions internationally, including the V&A, Montpellier Contemporain, Frieze & Art Basel. Charlotte Colbert’s surreal and iconic work sits in the same psychic vein as Toomer, Dalí, and Breton,” Phaidon. Her critically acclaimed BIFA-nominated directorial debut feature film, She Will, produced by Dario Argento and starring Alice Krige, Kota Eberhardt, Malcolm McDowell, and Rupert Everett, premiered at the London Film Festival and won the Golden Leopard for Best First Feature at the Locarno Film Festival. It was the New York Times’ Critic’s Choice and was described in Variety as “A Superb, Sly Horror-Drama Debut Delivering Otherworldly Feminist Vengeance” and the Evening Standard named her “a natural born magician.” Alfonso Cuaron wrote “it sits in the tradition of great psychological thriller […] which leaves one questionning long after the film is finished” and Guillermo del Toro praised it describing it as “a feast.”"
 featured_img: "6c10b3f4-8ab9-4c17-f270-4e83a1a36b00"
 summary: ""

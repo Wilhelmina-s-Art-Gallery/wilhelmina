@@ -1,10 +1,10 @@
 ---
 type: "about"
-title: "Wilhelmina's"
+title: "Wilhelmina’s"
 slug: "about"
 images: "https://www.silverejarrosson.com/cdn-cgi/imagedelivery/L0HrrfgxmX01pIlKW6n82w/b038bc0e-02b7-4589-43ec-2304cc3ebc00/w=1280"
-seoTitle: "Wilhelmina's"
-description: "Wilhelmina's exhibits contemporary works by International artists on Hydra between June and October. The exhibitions are displayed inside a historic building on Mandraki Beach that was once the Captain’s Mansion. This year the artists displayed are vastly different but share in common supreme technical skill and treat subjects rooted in universal themes, particularly nature, myth, philosophy and dreams."
+seoTitle: "Wilhelmina’s"
+description: "Wilhelmina’s exhibits contemporary works by International artists on Hydra between June and October. The exhibitions are displayed inside a historic building on Mandraki Beach that was once the Captain’s Mansion. This year the artists displayed are vastly different but share in common supreme technical skill and treat subjects rooted in universal themes, particularly nature, myth, philosophy and dreams."
 summary: "Les expositions du peintre Silvère Jarrosson sont des jalons de son cheminement artistique, chacune abordant une thématique, un regard sur la peinture contemporaine et la façon de l'exposer. Solo ou collectives, en galerie ou dans des institutions culturelles, chacune traduit une certaine lecture de son œuvre."
 date: 2014-07-01T14:00:00-06:00
 showthedate: false
@@ -12,7 +12,7 @@ noindex: false
 lastmod: 2023-04-06T15:37:00-06:00
 ---
 
-A love for art, a dynamic mentor in Alex Reding of the [Nosbaum Reding](https://www.nosbaumreding.com/) Gallery in Luxembourg and a fortunate encounter with the owners of the Mandraki Beach Resort on Hydra gave Wilhelmina von Blumenthal the impulse she needed to kickstart her own gallery. Wilhelmina's (WAG’s) opens this summer with the Mandraki Art Project minutes away from the DESTE Project Space Slaughterhouse.
+A love for art, a dynamic mentor in Alex Reding of the [Nosbaum Reding](https://www.nosbaumreding.com/) Gallery in Luxembourg and a fortunate encounter with the owners of the Mandraki Beach Resort on Hydra gave Wilhelmina von Blumenthal the impulse she needed to kickstart her own gallery. Wilhelmina’s (WAG’s) opens this summer with the Mandraki Art Project minutes away from the DESTE Project Space Slaughterhouse.
 
 > Hydra came into my life unexpectedly but very soon a deep-seated desire to contribute to the mythology of the artist surrounding the island took hold of me. Having DESTE up there on that hill showing giants like Koons, Kiki Smith and Kara Walker to mention just a few motivates me in that aspiration. With a lot of help and support from colleagues and friends old and new I’m delighted to say that WAG’s is kicking off with a serious program.
 

@@ -1,7 +1,7 @@
 {
   "name": "wilhelmina",
   "version": "1.0.0",
-  "description": "Wilhelmina's Website",
+  "description": "Wilhelmina’s Website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -2,7 +2,7 @@
 type: "artists"
 title: "Simon Demeuter"
 slug: "simon-demeuter"
-seoTitle: "Wilhelmina's: Simon Demeuter"
+seoTitle: "Wilhelmina’s: Simon Demeuter"
 description: "Born in 1991 in Soignies, Belgium, Simon Demeuter resides and practices his artistic activity in Brussels. His pictorial approach is guided by a bold desire for the simplification of forms, giving his creations a pictorial freshness and striking spontaneity. Color plays a central role in Demeuter's artistic expression, serving as an essential tool to evoke emotions, impressions, sensations, moods, and physical or mental states. The artist's sources of inspiration draw from childhood memories as well as travels and encounters. His imagery transports one towards both internal landscapes and references to popular art, impressionists, cinema, or music. An ordinary object, as arbitrary as it may seem, can be the starting point for a new series of paintings. Regarding models, they become objectified motifs like any other elements. Compositions and settings are repainted infinitely, with gestural variations in color, size, and imperfections. In doing so, Simon seeks to unearth the trace of an emotion in the simplest and most stripped-down manner possible. He has had solo exhibitions at The Cabin, Los Angeles (USA, 2019) and Sorry We’re Closed, Brussels (Belgium, 2019). Demeuter has participated in group exhibitions at Frac Champagne-Ardenne, Reims (France, 2021); Can Marqués, Palma (Spain, 2021); Gilles Drouault Galerie Des Multiples, Paris (France, 2020) and Generation Brussels, curated by Evelyn Simons (Brussels, 2020)."
 featured_img: "e8dd26cd-43da-449f-320c-af950b102900"
 summary: ""

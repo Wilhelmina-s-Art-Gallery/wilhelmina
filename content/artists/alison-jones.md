@@ -2,7 +2,7 @@
 type: "artists"
 title: "Alison Jones"
 slug: "alison-jones"
-seoTitle: "Wilhelmina's: Alison Jones"
+seoTitle: "Wilhelmina’s: Alison Jones"
 description: "Alison Jones is a painter of the _to-be-looked-at-ness_ of femininity, taking vicarious visual pleasure in this quality, as a female spectator, a cinema-goer, reader of luxury magazines, or Instagram scroller. Her paintings explore the messy entanglement of the female gaze in depictions of dressing up and showing off that draw attention to, but also wilfully muddle a commentary on femininity and spectatorship."
 featured_img: "cd79464a-fe66-4dc4-a170-2c56062be000"
 summary: ""
