@@ -1,8 +1,7 @@
 ---
 title: "Wilhelmina’s"
-description: "Wilhelmina’s is pleased to present “Magic Mirror”, a group exhibition curated by Wilhelmina von Blumenthal and artist Irini Karayannopoulou.
-Thirty-three international artists (emerging and acclaimed) have been asked to present works where mirrors, their uses and their users play out in all their enchanting complexity through painting, collage, sculpture, film and photography.
-Artists include Pilar Abarracín, Emma Ainala, Loukia Alavanou, Belkıs Balpınar, Burçak Bingöl, Lindsey Calla, The Callas, Saint Clair Cemin, Charlotte Colbert, Simon Demeuter, Lionel Estève, Helen Flockhart, Hilary Galbreaith, Marianna Hatzinikolaou, Hippolyte Hentgen, Maria Joannou, Alison Jones, Iasonas Kampanis, Irini Karayannopoulou, Marin Kasimir, Peggy Kouroumalos, Natalia Manta, Didier Marcel, Theo Michael, Robert Montgomery, Mathieu Renard, Philip Tsiaras, Andreas Vais, Xenia Vitos, William Wegman, Janet Werner, Erwin Wurm."
+description: "Wilhelmina’s is pleased to present The Memory Palace, a group exhibition where eight international artists explore the ways in which art accesses human and spiritual knowledge be it stored in nature, the psyche or mythological structures. Each artist’s body of work corresponds to a chamber in the Memory Palace housed by Wilhelmina’s on the island of Hydra between the 22nd June – 17th August 2025.
+Participating Artists : Han Jiaquan (Shanghai), Aliki Paliou (Greece), Helmut Grill (Austria), Zélie Nguyen (France), Yoab Vera (Mexico), Sophie Whettnall (Belgium), Shahla Friberg (Canada), Val Smets (Luxembourg.)"
 date: 2014-07-01T14:00:00-06:00
 hero_title: Magic Mirror
 hero_subtitle:
