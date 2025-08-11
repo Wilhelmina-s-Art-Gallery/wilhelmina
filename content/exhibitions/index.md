@@ -5,39 +5,34 @@ description: ""
 date: 2014-07-01T14:00:00-06:00
 ---
 
-### An exhibition curated by Wilhelmina von Blumenthal &   Irini Karayannopoulou
+## Solo Show by Luan Lamberty : Through & Through
 
-**17th June - 21st July • Hydra Island, Greece**
+_29th August - 3rd October 2025_
 
-Wilhelmina’s presents Magic Mirror, an exhibition curated by Wilhelmina von Blumenthal and artist Irini Karayannopoulou. It will take place in two historical
-venues on Hydra Island, Greece, in the summer of 2024 and is devoted to the artist’s
-power to reflect, transform and distort reality.
+![Luan Lamberty](https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/5bf8426c-ccb8-4e28-ed82-0bfee17b2900/public)
 
-Thirty-three international artists (emerging and acclaimed) have been asked to present works where mirrors, their uses and their users play out in all their enchanting complexity through painting, collage, sculpture, film and photography.
+**Wilhelmina's is delighted to present the gallery's first solo exhibition since 2023 by Luxembourgish artist Luan Lamberty, first winner of the Andrea Neumann Prize with the kind support of Kultur LX – Luxembourg Art Council.**
 
-This exhibition is a tapestry of illusions, a web of experiences that escape the
-rational mind. Magic Mirror is a reflection on how we perceive the world; an invitation
-to explore what lies beyond our immediate senses.
+Lamberty's work explores body language, gesture, and emotion, crafting narratives that feel both intimate and universal. Viewers are invited to lose themselves in his vibrant, colourful compositions depicting enigmatic scenes, which encourage personal interpretation and quiet reflection.
 
-**Pilar Abarracin • Alison Jones • Emma Ainala • Iasonas Kampanis • Loukia Alavanou • Irini Karayannopoulou • Belkis Balpinar • Marin Kasimir • Burçak Bingöl • Peggy Kouroumalos • Lindsey Calla • Natalia Manta • The Callas • Didier Marcel • St Clair Cemin • Theo Michael • Charlotte Colbert • Robert Montgomery • Simon Demeuter • Lionel Esteve • Mathieu Renard • Helen Flockhart • Philip Tsiaras • Hilary Galbreaith • Andreas Vais • Marianna Hatzinikolaou • Xenia Vitos • Hippolyte Hentgen • William Wegman • Maria Joannou • Janet Werner • Erwin Wurm**
+Figures—through posture and gesture—form a shared visual language, offering nuanced insights into emotion and relationship. Vibrant colours, layered textures, transparent washes, gestural marks, and bold outlines converge to create deceptively simple compositions that balance harmony with tension. Beneath the playful, inviting surface lies an undercurrent of unease, revealing vulnerability and emotional complexity.
 
- For The Magic Mirror exhibition Wilhelmina’s has secured partnerships
- with Istanbul’74 who will co-host the VIP Preview Dinner at Captain M, Mandraki
- Resort’s renowned restaurant. The exhibition will be sponsored by Semeli wines,
- Maruccia Paris, Dalamara winery, Kasia Kay Projects, Entaxy.
+In stripping himself from the work, Lamberty creates space for the viewer to step in, inhabiting these shared human experiences.
 
- Wilhelmina’s will host a series of by invitation only events, destined to
- bring together artists, collectors, journalists and art lovers from all over the world.
- Apart from the VIP Preview Dinner that will take place June 16, a day before the official
- opening, a cocktail brunch will be held at Mandraki Resort, a collectors’ dinner will
- take place at the port of Hydra and, of course, there will be a number of captivating
- artist talks in both venues.
+_Luan Lamberty: Through & Through_ builds on the distinctive universe the artist has created since the early stages of his career. The title chosen for this solo exhibition refers on one level to an immersion in the qualities and traits that have become typical of the artist's visual expression – it is all entirely Lamberty. Recent years and especially this last body of work show Lamberty deepening his enigmatic themes and motifs with subtle shifts in perspective and even greater attention to colour, composition, textures and details. Works as far back as 2019 have been included in the exhibition to illustrate this development for a new public who in all likelihood is unfamiliar with this young artist's work.
 
- Performances and film screenings will be presented for the duration of the Magic
-Mirror exhibition both at Wilhelmina’s and at Keresbino/Hydrogoios
-(The Callas and the Callasettes, Peggy Kouroumalos, Sofia kouloukouri Jaqueline
-Lentzou  and others).
+_Through & Through_ also highlights a radical kind of transparency in Lamberty's work. Drawn with deceptive simplicity there are spectral see-through figures in interiors juxtaposed against one or even two who are boldly coloured and opaque. Sometimes barely there, at others assertively present yet in both cases ambiguous to read. Drawn with charming simplicity, the figures refuse individual identity. They are somewhere between intimacy, hesitation, yearning, dreaming, contemplation, isolation and togetherness, feelings we can intuit but never fully name. Their naïve lines blur the boundary between subject and viewer. Who are they? What are they feeling? What are the dynamics between them and what is their relationship to us? In inviting us to look at and through them, Lamberty is also asking us to look at and within ourselves. Set against windows with views onto open empty skies or distant landscapes these translucent forms become vessels for projection.
 
-The Magic Mirror tote bags and t-shirts will be designed and produced by Hard Clo.
+The interplay between the interior and exterior adds an extra layer of visual and psychological complexity. Lamberty alternates constantly the relationship of his characters to the exterior. Sometimes we observe them looking out into an expanse of blue sky. In other works, the figures have their backs to the window and are oblivious of the detailed landscapes beyond. Finally, we have works that flip the perspective around entirely so that we are looking from the outside through the window to the figures on the inside. By turns they look back at us, gaze outside unawares while we intrude on their reveries or sit in the window-sill entirely introspective without looking outside at all. At this juncture it is worth highlighting the art historical reference to "the woman in the window" with all of the mystery and fantasy male artists have invited us to share with them.
 
-The visual identity and the catalogue of the exhibition will be created by SEBR design
+Works have also been chosen where Lamberty's figures have been removed entirely to emphasise the importance of the relationship between looking through the inside to the outside as a meditative exercise in which we as viewers replace his figures entirely. Worth noting is how the plants which appear as small motifs next to his characters now gain protagonism. Especially, the unsettling detail in which the shadow cast is at odds with the plant depicted.
+
+Lamberty has a knack for creating paintings that are at first sight simple and delightful compositions of sumptuous and harmonious colours. But the more we look the more we perceive the unsettling details that invite us see through and beyond like an inviting pool of water whose depths can only be fathomed after we have taken the plunge.
+
+## Art Athina
+
+_18th - 22nd September 2025_
+
+## Asia Now
+
+_21st - 26th October 2025_

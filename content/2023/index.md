@@ -1,7 +1,8 @@
 ---
-title: "Previous"
-type: "previous"
 description: ""
+type: "2023"
+title: "2023 exhibitions"
+slug: "2023"
 date: 2014-07-01T14:00:00-06:00
 ---
 

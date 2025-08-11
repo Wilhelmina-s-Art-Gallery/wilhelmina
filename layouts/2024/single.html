@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="container is-fluid">
+  <div class="tabs">
+    <ul>
+      <li><a href="/exhibitions">Upcoming</a></li>
+      <li class="is-active"><a>2024</a></li>
+      <li><a href="/2023">2023</a></li>
+    </ul>
+  </div>
+  <h2 class="title">{{ .Params.title | markdownify }}</h2>
+  <article>
+      <div class="has-text-centered">
+        <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/bc4b5741-3254-4314-8611-3972426d9f00/public"/>
+        <p>In collaboration with:</p>
+        <img src="https://imagedelivery.net/pUQ8MV0SyIpam560ZqHrQA/adce403b-61ab-49e5-1edb-d02c6a660300/logo" alt="Istanbul '74">
+      </div>
+      {{ .Content }}
+    </article>
+  </section>
+  {{ end }}
+
