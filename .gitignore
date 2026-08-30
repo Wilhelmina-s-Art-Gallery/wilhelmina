@@ -196,3 +196,8 @@ resources
 .prettierignore
 
 # End of https://www.toptal.com/developers/gitignore/api/codekit,nova,node,macos
+
+# public/ is a symlink to a non-synced build dir (iCloud created conflict
+# copies inside build output). Ignore both forms.
+/public
+/public.nosync/

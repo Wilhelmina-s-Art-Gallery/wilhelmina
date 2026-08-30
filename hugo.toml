@@ -1,4 +1,5 @@
 baseURL = 'https://www.wilhelmina.gallery/'
+
 languageCode = 'en-gb'
 timeZone = 'Europe/Athens'
 title = "Wilhelmina’s"
