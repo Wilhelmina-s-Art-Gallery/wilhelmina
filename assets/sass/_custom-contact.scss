@@ -12,7 +12,7 @@
 }
 
 .contact-box p {
-  color: $scorpion;
+  color: $chicago;
 }
 
 .contact-form {
@@ -32,7 +32,7 @@ input::placeholder {
 .contact-form textarea,
 .contact-form input {
   border: 0;
-  border-bottom: 1px $scorpion solid;
+  border-bottom: 1px $chicago solid;
   -webkit-transition: 0.15s ease-in-out;
   transition: 0.15s ease-in-out;
   background-color: transparent;
@@ -41,7 +41,7 @@ input::placeholder {
   display: inline-block;
   resize: none;
   padding: 2px;
-  color: $scorpion;
+  color: $chicago;
   font-size: 18px;
 }
 
@@ -58,7 +58,7 @@ input::placeholder {
 .contact-form textarea:focus,
 .contact-form input:focus {
   outline: 0;
-  border-bottom: 1px $scorpion solid;
+  border-bottom: 1px $chicago solid;
   -webkit-transition: 0.3s ease-in-out;
   transition: 0.3s ease-in-out;
 }
@@ -72,7 +72,7 @@ input::placeholder {
 }
 
 ::-webkit-input-placeholder {
-  color: $scorpion;
+  color: $chicago;
 }
 
 #send {
@@ -84,7 +84,7 @@ input::placeholder {
   margin-right: -1px;
   padding: 4px 12px 6px;
   float: right;
-  color: $scorpion;
+  color: $chicago;
   //    font-size: 18px;
 }
 
