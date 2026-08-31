@@ -201,3 +201,8 @@ resources
 # copies inside build output). Ignore both forms.
 /public
 /public.nosync/
+# iCloud names a conflict copy "<name> 2", "<name> 3"... which match none of
+# the rules above. An empty one is invisible to git; one carrying files would
+# show as untracked and could be swept into a commit by `git add -A`.
+/public [0-9]*/
+/public.nosync [0-9]*/
