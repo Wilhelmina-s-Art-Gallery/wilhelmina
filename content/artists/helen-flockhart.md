@@ -12,6 +12,6 @@ showthedate: false
 noindex: false
 lastmod: 2023-04-06T15:37:00-06:00
 ---
-{{% artist-img id="ac667d9f-31d5-456d-82d3-bb67dcf49600" title="Trimalchio's Feast" size="24 x 40 cm" medium="Oil on panel" date="2023" %}}
+{{% artist-img id="ac667d9f-31d5-456d-82d3-bb67dcf49600" title="Trimalchio’s Feast" size="24 x 40 cm" medium="Oil on panel" date="2023" %}}
 
 {{% artist-img id="79743b79-02a5-40ea-7603-d09975f93600" title="Trophies" size="36 x 49 cm" medium="Oil on panel" date="2023" %}}

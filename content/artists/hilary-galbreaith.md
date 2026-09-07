@@ -13,7 +13,7 @@ lastmod: 2023-04-06T15:37:00-06:00
 ---
 {{% artist-img id="b23f694e-37d8-4332-0f21-9a47ccfe0b00" title="The Red Shoe" size="30 x 21 cm" medium="Acrylic and collage on postcard" date="2022" %}}
 
-{{% artist-img id="b79954ef-8d43-4b33-98cd-c18989066700" title="An Itch You Can't Scratch" size="30 x 21 cm" medium="Acrylic and collage on postcard" date="2022" %}}
+{{% artist-img id="b79954ef-8d43-4b33-98cd-c18989066700" title="An Itch You Can’t Scratch" size="30 x 21 cm" medium="Acrylic and collage on postcard" date="2022" %}}
 
 {{% artist-img id="27917cd6-8095-42b1-fbd3-173e646c4200" title="Insomniac" size="30 x 21 cm" medium="Acrylic and collage on postcard" date="2022" %}}
 
