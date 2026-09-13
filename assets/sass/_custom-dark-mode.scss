@@ -1,5 +1,7 @@
+@use "theme" as t;
+
 body {
-  background-color: $white;
+  background-color: t.$white;
   height: 100vh;
   transition: all 0.4s ease;
 }
@@ -8,21 +10,21 @@ body {
 
 body .subtitle,
 body .title {
-  color: $dark;
+  color: t.$dark;
 }
 
 body.dark {
-  background-color: $dark;
-  color: $light;
+  background-color: t.$dark;
+  color: t.$light;
 }
 
 .has-background-dark a {
-  color: $lemon-chiffon;
+  color: t.$lemon-chiffon;
 }
 
 body.dark .subtitle,
 body.dark .title {
-  color: $light;
+  color: t.$light;
 }
 
 .section {
@@ -36,15 +38,15 @@ body.dark .title {
 button {
   cursor: pointer;
   border: none;
-  color: $light;
+  color: t.$light;
   padding: 0.8rem;
-  background: $dark;
+  background: t.$dark;
   border-radius: 6px;
 }
 
 body.dark button {
-  background: $light;
-  color: $dark;
+  background: t.$light;
+  color: t.$dark;
 }
 
 .filter-white {

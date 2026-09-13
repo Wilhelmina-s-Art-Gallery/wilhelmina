@@ -4,6 +4,7 @@
   "description": "Wilhelmina’s Website",
   "main": "index.js",
   "scripts": {
+    "css": "sass --no-source-map assets/sass/style.scss static/css/style.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,7 +21,6 @@
   },
   "homepage": "https://github.com/Wilhelmina-s-Art-Gallery/wilhelmina#readme",
   "devDependencies": {
-    "bulma": "^0.9.4",
-    "node-sass": "^9.0.0"
+    "bulma": "^1.0.4"
   }
 }

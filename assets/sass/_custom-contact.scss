@@ -1,3 +1,5 @@
+@use "theme" as t;
+
 .contact-box {
   display: flex;
   flex-direction: column;
@@ -12,7 +14,7 @@
 }
 
 .contact-box p {
-  color: $chicago;
+  color: t.$chicago;
 }
 
 .contact-form {
@@ -32,7 +34,7 @@ input::placeholder {
 .contact-form textarea,
 .contact-form input {
   border: 0;
-  border-bottom: 1px $chicago solid;
+  border-bottom: 1px t.$chicago solid;
   -webkit-transition: 0.15s ease-in-out;
   transition: 0.15s ease-in-out;
   background-color: transparent;
@@ -41,7 +43,7 @@ input::placeholder {
   display: inline-block;
   resize: none;
   padding: 2px;
-  color: $chicago;
+  color: t.$chicago;
   font-size: 18px;
 }
 
@@ -58,7 +60,7 @@ input::placeholder {
 .contact-form textarea:focus,
 .contact-form input:focus {
   outline: 0;
-  border-bottom: 1px $chicago solid;
+  border-bottom: 1px t.$chicago solid;
   -webkit-transition: 0.3s ease-in-out;
   transition: 0.3s ease-in-out;
 }
@@ -72,7 +74,7 @@ input::placeholder {
 }
 
 ::-webkit-input-placeholder {
-  color: $chicago;
+  color: t.$chicago;
 }
 
 #send {
@@ -84,7 +86,7 @@ input::placeholder {
   margin-right: -1px;
   padding: 4px 12px 6px;
   float: right;
-  color: $chicago;
+  color: t.$chicago;
   //    font-size: 18px;
 }
 
@@ -103,7 +105,7 @@ input::placeholder {
 #contact-form-error {
   margin-right: 20px;
   display: inline-block;
-  color: $stiletto;
+  color: t.$stiletto;
 }
 
 .contact-form.focused #contact-form-error:empty {

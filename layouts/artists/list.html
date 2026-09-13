@@ -2,7 +2,15 @@
 <section class="container is-fluid">
   <article>
     <h1>{{ .Title }}</h1>
-    <div class="columns is-8 is-multiline">
+    {{/* `is-8` was dropped here on 13 Sep 2026, with the move to Bulma 1.x.
+         Under Bulma 0.9 a variable column gap needed BOTH classes -
+         `columns is-variable is-8` - so `is-8` on its own had never done
+         anything, and the grid has always rendered at the default 0.75rem
+         gap. Bulma 1.x honours `is-8` alone, which silently widened every
+         gutter from 12px to 32px and narrowed the cards from 224px to 192px.
+         Removed to keep the grid as published. If the wider gap was the
+         original intention, putting `is-8` back now does what it says. */}}
+    <div class="columns is-multiline">
         {{ range .Pages }}
         <div class="column
         is-one-half-mobile

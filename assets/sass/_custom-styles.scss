@@ -1,3 +1,5 @@
+@use "theme" as t;
+
 html,
 body {
   height: 100%;
@@ -35,12 +37,12 @@ table,
 .photos,
 .tags,
 ul {
-  margin: $padding 0 0;
+  margin: t.$padding 0 0;
 }
 
 body,
 .content {
-  font-family: $family-primary;
+  font-family: t.$family-primary;
   font-stretch: 72%;
 }
 
@@ -59,7 +61,7 @@ body,
 
 .navbar,
 body {
-  background-color: $white;
+  background-color: t.$white;
 }
 
 .navbar-item {
@@ -67,11 +69,11 @@ body {
 }
 
 footer {
-  padding: $padding;
+  padding: t.$padding;
 }
 
 .footer-logo img {
-  padding: $padding;
+  padding: t.$padding;
 }
 
 /* Lists
@@ -136,12 +138,12 @@ blockquote {
   display: block;
   border-width: 2px 0;
   border-style: solid;
-  border-color: $white-ter;
+  border-color: t.$white-ter;
   padding: 1.5em 0 0.5em;
   margin: 1.5em 0;
   position: relative;
   font-size: 1.2em;
-  color: $primary;
+  color: t.$primary;
 }
 blockquote:before {
   content: "\201C";
@@ -149,18 +151,18 @@ blockquote:before {
   top: -0.089em;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: $white;
+  background: t.$white;
   width: 3rem;
   height: 2rem;
   font: 6em/1.08em "Quicksand", sans-serif;
-  color: $primary;
+  color: t.$primary;
   text-align: center;
 }
 blockquote:after {
   content: "\2013 \2003"attr(cite);
   display: block;
   text-align: right;
-  color: $primary;
+  color: t.$primary;
 }
 
 /* Lists
@@ -168,7 +170,7 @@ blockquote:after {
 
 /* Source: https://github.com/bluefantail/bulma-list/blob/main/css/bulma-list.css */
 .list {
-  color: $primary;
+  color: t.$primary;
   flex-direction: column;
   display: flex;
 }
@@ -189,7 +191,7 @@ blockquote:after {
   padding: 0.75em;
 }
 .list-item:not(:last-child):not(.box) {
-  border-bottom: 1px solid $grey-lighter;
+  border-bottom: 1px solid t.$grey-lighter;
 }
 
 @media screen and (max-width: 768px) {
@@ -209,12 +211,12 @@ blockquote:after {
   }
 }
 .list-item-title {
-  color: $primary;
+  color: t.$primary;
   font-weight: 600;
 }
 
 .list-item-description {
-  color: $grey-dark;
+  color: t.$grey-dark;
 }
 
 article.post figure img.title {
@@ -236,7 +238,7 @@ article.post figure img.title {
 }
 
 .hero a {
-  color: $white;
+  color: t.$white;
   text-decoration: underline;
 }
 
@@ -297,3 +299,61 @@ article.post figure img.title {
 input.button {
   margin: 0;
 }
+
+/* Title/subtitle spacing, restored to Bulma 0.9.4's geometry
+--------------------------------------------------------------------------------------------- */
+
+/* Bulma 1.x introduced
+
+     .title:not(.is-spaced):has(+ .subtitle) { margin-bottom: 0 }
+
+   (0.9.4 contained no :has() rule at all). It zeroes the margin a title used to
+   carry below itself and leans on the subtitle's top margin instead — but this
+   site sets `p { margin: $padding 0 0 }` above, so the subtitle's top margin is
+   $padding, not Bulma's. The gap under every title therefore grew, and since
+   the heroes are `cover` backgrounds a taller hero rescales the whole image:
+   the page stops matching what was published.
+
+   Two rules because 0.9.4 produced two different gaps, and both are in use:
+
+     <h1 class="title">   24px — from Bulma's .title:not(:last-child), 1.5rem
+     <p class="title">    32px — .content p:not(:last-child) at 1em, which beat
+                                 Bulma's rule on specificity and, at the title's
+                                 own 2rem font-size, resolves to 32px
+
+   The home page hero uses the second, artist pages the first. Restoring one
+   value for both would have moved whichever page it was not measured on. */
+.title:not(.is-spaced):has(+ .subtitle) {
+  margin-bottom: 1.5rem;
+}
+
+.content p.title:not(.is-spaced):has(+ .subtitle) {
+  margin-bottom: 1em;
+}
+
+.title:not(.is-spaced) + .subtitle {
+  margin-top: -1.25rem;
+}
+
+/* Bulma 0.9.4 gave every `ul` inside `.content` a 1em top margin:
+
+     .content ul { margin-top: 1em }
+
+   1.x narrowed that to `.content ul:not(:first-child)`. A first-child `ul`
+   therefore loses it and falls through to this file's own `ul { margin: $padding
+   0 0 }` instead — 28px rather than 16px. The exhibition and about pages open
+   with a `.tabs ul`, which is exactly that case, so their whole page below the
+   tab bar sat 12px lower. Restoring the first-child case only: everything else
+   already matches 0.9.4. */
+.content ul:first-child {
+  margin-top: 1em;
+}
+
+
+/* One difference is deliberately NOT chased: a coloured button is 2px narrower
+   than it was. 0.9.4 gave it a 1px transparent border on top of a flat 1em of
+   horizontal padding; 1.x keeps the border but subtracts it from the padding
+   (calc(1em - border-width)), so the box comes out 2px smaller whatever the
+   border is set to. Matching it would mean overriding
+   --bulma-button-padding-horizontal to calc(1em + 1px), which is a worse thing
+   to leave in the codebase than a 2px difference on the Contact button. */

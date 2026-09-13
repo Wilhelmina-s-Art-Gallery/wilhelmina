@@ -1,6 +1,12 @@
 // Wilhelmina
 // Created with ColorSlurp
 
+// The gallery's own palette and layout tokens. Since the Bulma 1.x migration
+// (13 Sep 2026) this file holds ONLY what belongs to Wilhelmina: the Bulma
+// variables it overrides are handed to Bulma in _theme.scss, which is the one
+// place allowed to configure it. Partials should @use "theme", not this file,
+// so they get the palette and Bulma's variables from a single module.
+
 $lemon: #FCE70D;       // exact palette hex; was hsl(55,97%,52%) = #FBE80E
 $lemon-chiffon: #FEFACF;        // Lemon Chiffon; was hsl(55,97%,90%) = #FEFACD
 $sea-green: hsl(137, 57%, 37%);
@@ -10,20 +16,16 @@ $stiletto: hsl(360, 50%, 41%);
 $chicago: hsl(0, 0%, 34%);
 $fuscous-gray: hsl(360, 0%, 33%);
 
-$primary: $san-marino;
-$link: hsl(137, 57%, 25%);
+// Handed to Bulma as $primary and $link in _theme.scss
+$brand-primary: $san-marino;
+$brand-link: hsl(137, 57%, 25%);
 
-// Update Bulma's global variables
+// Font stacks, also handed to Bulma in _theme.scss
 $family-sans-serif: "Quicksand", -apple-system, BlinkMacSystemFont,
   "Avenir Next", "Avenir", "Segoe Ui", "Helvetica Neue", "Helvetica",
   "Cantarell", "Ubuntu", "Roboto", "Noto", "Arial", Sans-Serif;
 $family-monospace: "Menlo", "Consolas", "Monaco", "Liberation Mono",
   "Lucida Console", monospace;
-$family-code: "Menlo", "Consolas", "Monaco", "Liberation Mono", "Lucida Console",
-  monospace;
-
-$family-primary: $family-sans-serif;
-$family-secondary: $family-sans-serif;
 
 /// Responsive Padding, Margin & Gutters
 //  Source: https://matthewjamestaylor.com/responsive-padding

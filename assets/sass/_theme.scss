@@ -1,0 +1,86 @@
+// The single place Bulma is configured, and the single module the rest of the
+// site's Sass reads variables from. Written 13 Sep 2026 for the Bulma 0.9.4 ->
+// 1.0.4 migration.
+//
+// Bulma 1.x is a module, not a pile of @imports: it is configured once, with
+// `with (...)`, at the point it is first loaded. Every other partial does
+// `@use "theme" as t` and reads t.$primary, t.$white, t.$padding and so on -
+// which is why this file @forwards both the gallery's palette and Bulma's own
+// variables. Configuring Bulma anywhere else raises "this module was already
+// loaded, so it can't be configured".
+
+@use "custom-variables" as pal;
+
+// bulma-no-dark-mode, NOT the default entry point. Bulma 1.x ships a
+// prefers-color-scheme dark theme and turns it on by default; 0.9.4 had no dark
+// theme at all, so adopting the default would have silently repainted the whole
+// site for every visitor whose OS is set to dark - a change nobody asked for.
+// Wilhelmina's dark mode is its own `body.dark` toggle (_custom-dark-mode.scss)
+// and is unaffected either way.
+@use "../../node_modules/bulma/versions/bulma-no-dark-mode" with (
+  $primary: pal.$brand-primary,
+  $link: pal.$brand-link,
+
+  $family-sans-serif: pal.$family-sans-serif,
+  $family-monospace: pal.$family-monospace,
+
+  // Bulma 1.x tints its neutrals blue - hsl(221, 14%, L) where 0.9.4 used a
+  // true grey, hsl(0, 0%, L). Pinned back to the 0.9.4 values: these greys are
+  // the page's borders, rules and secondary text, and a hue shift across all of
+  // them is exactly the kind of drift that is invisible in a diff and obvious
+  // on the screen.
+  //
+  // $scheme-h and $scheme-s are the ones that actually matter, and the reason
+  // is easy to miss: 1.x does not derive the theme's text and border colours
+  // from $grey-dark and friends any more. It builds them at RUNTIME from these
+  // two HSL components, in CSS custom properties. Pinning the $grey-* variables
+  // below without these left every body-text colour still tinted - measured at
+  // rgb(64, 70, 84) against 0.9.4's rgb(74, 74, 74).
+  $scheme-h: 0,
+  $scheme-s: 0%,
+
+  $black: hsl(0, 0%, 4%),
+  $black-bis: hsl(0, 0%, 7%),
+  $black-ter: hsl(0, 0%, 14%),
+  $grey-darker: hsl(0, 0%, 21%),
+  $grey-dark: hsl(0, 0%, 29%),
+  $grey: hsl(0, 0%, 48%),
+  $grey-light: hsl(0, 0%, 71%),
+  $grey-lighter: hsl(0, 0%, 86%),
+  $grey-lightest: hsl(0, 0%, 93%),
+  $white-ter: hsl(0, 0%, 96%),
+  $white-bis: hsl(0, 0%, 98%),
+  $white: hsl(0, 0%, 100%),
+
+  // Likewise the corner radii, which 1.x roughly doubled: 2/4/6px became
+  // 0.25/0.375/0.75rem, i.e. 4/6/12px. Every card, button, input and tag on the
+  // site would have rounded off.
+  $radius-small: 2px,
+  $radius: 4px,
+  $radius-large: 6px,
+
+  // 1.x made titles extrabold (800); 0.9.4 set semibold (600).
+  $title-weight: 600,
+
+  // 0.9.4's .button declared no font-weight at all, so a button inherited it
+  // from its surroundings - which is why the Contact button in the navbar comes
+  // out bold, picking up `.navbar-item { font-weight: bold }` from
+  // _custom-styles.scss. 1.x sets font-weight: medium (500) on every button and
+  // breaks that inheritance. `inherit` restores 0.9.4's behaviour exactly,
+  // rather than hard-coding 700 and making every button on the site bold.
+  $button-weight: inherit,
+
+  // Cards have their own radius, which the $radius-* pins above do not
+  // reach: 0.9.4 used 0.25rem, 1.x uses 0.75rem. At the sizes the artist
+  // grid renders, that is the difference between a square-ish card and a
+  // visibly rounded one.
+  $card-radius: 0.25rem
+);
+
+// The two font stacks are hidden because Bulma defines the same names, and a
+// forwarded module may not collide with another. They are the same values -
+// they were handed to Bulma above - so anything downstream wanting a font
+// stack reads Bulma's $family-primary.
+@forward "custom-variables" hide $family-sans-serif, $family-monospace;
+@forward "../../node_modules/bulma/sass/utilities/initial-variables";
+@forward "../../node_modules/bulma/sass/utilities/derived-variables";
