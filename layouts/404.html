@@ -1,0 +1,24 @@
+{{/* Page not found. Added 15 Sep 2026: until then the build produced no
+     404.html, and a Cloudflare Pages site without one answers HTTP 200 with
+     the home page for every unknown URL - so a mistyped or retired address
+     looked like the home page, to visitors and to search engines alike.
+     With this file at the root of the output, Pages serves it, with a 404
+     status, at whatever URL was missing.
+
+     It fills only the "main" block, so the header, footer and stylesheet are
+     the site's own, and it reuses the legal page's section > article.post
+     markup rather than introducing classes PurgeCSS would have to learn.
+     Links are root-relative: they resolve the same from any depth. */}}
+{{ define "main" }}
+<section>
+  <article class="post">
+    <h1>Page not found</h1>
+    <p>We couldn’t find the page you were looking for. The address may be mistyped, or the page may have moved.</p>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/exhibitions">Exhibitions</a></li>
+      <li><a href="/artists">Artists</a></li>
+    </ul>
+  </article>
+</section>
+{{ end }}
