@@ -1,2 +1,29 @@
-<link rel="stylesheet" href="/css/style.css" type="text/css">
+{{/* Hugo compiles the stylesheet on every build, since 15 Sep 2026. Before
+     that this partial linked a committed static/css/style.css that CodeKit
+     had produced and nothing rebuilt: editing the Sass changed nothing on the
+     live site until someone recompiled and committed the file by hand, and
+     CodeKit has since been uninstalled.
 
+     dartsass, not Hugo's built-in LibSass: the Sass is on the module system
+     (@use, since the Bulma 1.x upgrade), which LibSass cannot read. It needs
+     the `sass` binary on PATH - Homebrew's locally, and the Pages build must
+     install Dart Sass too (see the wilhelmina.gallery cockpit).
+
+     targetPath keeps the file in css/, so the fonts' url("../fonts/...") still
+     resolves exactly as it did from static/css/.
+
+     Production: PurgeCSS (postcss.config.js) strips every rule the rendered
+     pages don't use, going by hugo_stats.json - the site uses ~76 classes of
+     Bulma's hundreds. resources.PostProcess defers all of that until every
+     page has rendered, so on a clean build the stats file is complete before
+     PurgeCSS reads it, not left over from the previous build. */}}
+{{ $opts := dict "transpiler" "dartsass" "targetPath" "css/style.css" }}
+{{ with resources.Get "sass/style.scss" | toCSS $opts }}
+  {{ if hugo.IsProduction }}
+    {{ with . | postCSS | minify | fingerprint | resources.PostProcess }}
+<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+  {{ else }}
+<link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+{{ end }}

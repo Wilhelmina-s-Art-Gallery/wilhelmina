@@ -4,7 +4,6 @@
   "description": "Wilhelmina’s Website",
   "main": "index.js",
   "scripts": {
-    "css": "sass --no-source-map assets/sass/style.scss static/css/style.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +20,9 @@
   },
   "homepage": "https://github.com/Wilhelmina-s-Art-Gallery/wilhelmina#readme",
   "devDependencies": {
-    "bulma": "^1.0.4"
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "bulma": "^1.0.4",
+    "postcss": "^8.4.24",
+    "postcss-cli": "^10.1.0"
   }
 }
